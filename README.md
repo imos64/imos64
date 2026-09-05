@@ -411,6 +411,6 @@ I am interested in **DevSecOps**, **SRE**, **cloud infrastructure**, **AI system
 
 ### Build securely • Operate reliably • Automate intelligently
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=000000" width="100%" />
 
 </div>
