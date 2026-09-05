@@ -2,6 +2,7 @@
 
 
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Imos%20Aikoroje&fontAlign=50&fontAlignY=38&desc=DevSecOps%20%E2%80%A2%20SRE%20%E2%80%A2%20Cloud%20Platform%20%E2%80%A2%20AI%20Benchmark%20Engineering%20%E2%80%A2%20Distributed%20Systems&descAlign=50&descAlignY=60&animation=fadeIn&color=0:020617,45:071426,100:0A2540&fontColor=FFFFFF&descColor=D6E4F0" width="100%" />
 
 ### Building secure infrastructure • Reliable platforms • Distributed systems • Frontier AI evaluation environments
@@ -47,7 +48,7 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 
 ## 🧠 CogNeo Edge Router — Multi-Backend RAG & AI Gateway
 
-[![CogNeo Edge Router](https://github-readme-stats.vercel.app/api/pin/?username=imos64&repo=CogNeo-Edge-Router&hide_border=true)](https://github.com/imos64/CogNeo-Edge-Router)
+[![CogNeo Edge Router](https://img.shields.io/badge/CogNeo_Edge_Router-Multi--Backend_RAG_&_AI_Gateway-0A2540?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imos64/CogNeo-Edge-Router)
 
 FastAPI edge router for multi-backend and multi-inference RAG systems.
 
@@ -57,7 +58,7 @@ FastAPI edge router for multi-backend and multi-inference RAG systems.
 
 ## ⛓️ Hyperledger Fabric on Kubernetes
 
-[![Hyperledger Fabric on Kubernetes](https://github-readme-stats.vercel.app/api/pin/?username=imos64&repo=hyperledger-fabric-on-kubernetes&hide_border=true)](https://github.com/imos64/hyperledger-fabric-on-kubernetes)
+[![Hyperledger Fabric on Kubernetes](https://img.shields.io/badge/Hyperledger_Fabric-Kubernetes_Network-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://github.com/imos64/hyperledger-fabric-on-kubernetes)
 
 Kubernetes-based Hyperledger Fabric infrastructure covering certificate authorities, peers, orderers, CouchDB, channels, connection profiles, and chaincode lifecycle.
 
@@ -70,7 +71,7 @@ Kubernetes-based Hyperledger Fabric infrastructure covering certificate authorit
 
 ## 🌳 TreeTracker / HLF Enterprise Productionization
 
-[![TreeTracker Infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=imos64&repo=treetracker-infrastructure&hide_border=true)](https://github.com/imos64/treetracker-infrastructure)
+[![TreeTracker Infrastructure](https://img.shields.io/badge/TreeTracker_Infrastructure-Cloud_&_Blockchain_Platform-15803D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imos64/treetracker-infrastructure)
 
 Productionization work across the TreeTracker and Hyperledger Fabric stack:
 
@@ -87,7 +88,7 @@ Productionization work across the TreeTracker and Hyperledger Fabric stack:
 
 ## ⚙️ DevOps Engineering Portfolio
 
-[![DevOps Projects](https://github-readme-stats.vercel.app/api/pin/?username=imos64&repo=DevOps-Projects&hide_border=true)](https://github.com/imos64/DevOps-Projects)
+[![DevOps Projects](https://img.shields.io/badge/DevOps_Projects-Automation_&_Cloud_Native-2563EB?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/imos64/DevOps-Projects)
 
 Containerization, infrastructure automation, CI/CD, observability, Kubernetes, and cloud-native delivery patterns.
 
@@ -95,7 +96,7 @@ Containerization, infrastructure automation, CI/CD, observability, Kubernetes, a
 
 ## 📊 Kubernetes Observability
 
-[![Kubernetes Grafana Prometheus](https://github-readme-stats.vercel.app/api/pin/?username=imos64&repo=kubernetes-grafana-prometheus&hide_border=true)](https://github.com/imos64/kubernetes-grafana-prometheus)
+[![Kubernetes Observability](https://img.shields.io/badge/Kubernetes_Observability-Prometheus_&_Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://github.com/imos64/kubernetes-grafana-prometheus)
 
 Monitoring and observability patterns for Kubernetes using Prometheus and Grafana.
 
@@ -104,6 +105,7 @@ Monitoring and observability patterns for Kubernetes using Prometheus and Grafan
 # 🤖 Frontier AI Benchmark Engineering
 
 <div align="center">
+
 
 
 
@@ -206,7 +208,7 @@ Core evaluation skills include repository investigation, production-fix review, 
 
 ## 🎮 Wordle AI Benchmark
 
-[![Wordle AI Benchmark](https://github-readme-stats.vercel.app/api/pin/?username=imos64&repo=Snorkel-Wordle-Benchmark&hide_border=true)](https://github.com/imos64/Snorkel-Wordle-Benchmark)
+[![Wordle AI Benchmark](https://img.shields.io/badge/Wordle_AI_Benchmark-LLM_Evaluation-7C3AED?style=for-the-badge&logo=python&logoColor=white)](https://github.com/imos64/Snorkel-Wordle-Benchmark)
 
 LLM benchmarking environment for strategic reasoning with:
 
@@ -226,6 +228,7 @@ Schema-guided enterprise document extraction benchmark covering structured-outpu
 
 <details>
 <summary><strong>Expand the complete recovered Harbor & TBench inventory</strong></summary>
+
 
 
 
@@ -377,6 +380,7 @@ Windows/WSL performance and disk-storage diagnostics.
 
 
 
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=imos64&show_icons=true&hide_border=true&rank_icon=github" alt="Imos GitHub stats" />
 
 <br/>
@@ -401,6 +405,7 @@ Windows/WSL performance and disk-storage diagnostics.
 ---
 
 <div align="center">
+
 
 
 
