@@ -1,25 +1,16 @@
-<div align="center">
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Imos%20Aikoroje&fontAlign=50&fontAlignY=38&desc=DevSecOps%20%E2%80%A2%20SRE%20%E2%80%A2%20Cloud%20Platform%20%E2%80%A2%20AI%20Benchmark%20Engineering%20%E2%80%A2%20Distributed%20Systems&descAlign=50&descAlignY=60&animation=fadeIn&color=0:020617,45:071426,100:0A2540&fontColor=FFFFFF&descColor=D6E4F0" width="100%" />
+<img src="./assets/header.svg" alt="Imos Aikoroje — DevSecOps • SRE • Cloud Platform • AI Benchmark Engineering • Distributed Systems" width="100%" />
 
 ### Building secure infrastructure • Reliable platforms • Distributed systems • Frontier AI evaluation environments
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imos_Aikoroje-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imosaikoroje/)
-[![GitHub](https://img.shields.io/badge/GitHub-imos64-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imos64)
-[![Profile Views](https://komarev.com/ghpvc/?username=imos64&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/imos64)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imos_Aikoroje-0F2A44?style=flat-square&labelColor=061423&logo=linkedin&logoColor=D9A441)](https://www.linkedin.com/in/imosaikoroje/)
+[![GitHub](https://img.shields.io/badge/GitHub-imos64-0F2A44?style=flat-square&labelColor=061423&logo=github&logoColor=D9A441)](https://github.com/imos64)
+[![Profile Views](https://komarev.com/ghpvc/?username=imos64&style=flat-square&label=PROFILE+VIEWS&color=0F2A44&labelColor=061423)](https://github.com/imos64)
 
-<br/>
-
-![DevSecOps](https://img.shields.io/badge/DevSecOps-Security_by_Design-111827?style=flat-square)
-![SRE](https://img.shields.io/badge/SRE-Reliability_Engineering-2563EB?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform_Engineering-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-Benchmark_Engineering-7C3AED?style=flat-square)
-![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-Distributed_Systems-2F3134?style=flat-square)
-
-</div>
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Security_by_Design-0F2A44?style=flat-square&labelColor=061423)
+![SRE](https://img.shields.io/badge/SRE-Reliability_Engineering-0F2A44?style=flat-square&labelColor=061423)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform_Engineering-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)
+![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-Benchmark_Engineering-0F2A44?style=flat-square&labelColor=061423)
+![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-Distributed_Systems-0F2A44?style=flat-square&labelColor=061423)
 
 ---
 
@@ -48,7 +39,7 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 
 ## 🧠 CogNeo Edge Router — Multi-Backend RAG & AI Gateway
 
-[![CogNeo Edge Router](https://img.shields.io/badge/CogNeo_Edge_Router-Multi--Backend_RAG_&_AI_Gateway-0A2540?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imos64/CogNeo-Edge-Router)
+[![CogNeo Edge Router](https://img.shields.io/badge/CogNeo_Edge_Router-Multi--Backend_RAG_&_AI_Gateway-0F2A44?style=flat-square&labelColor=061423&logo=github&logoColor=D9A441)](https://github.com/imos64/CogNeo-Edge-Router)
 
 FastAPI edge router for multi-backend and multi-inference RAG systems.
 
@@ -58,7 +49,7 @@ FastAPI edge router for multi-backend and multi-inference RAG systems.
 
 ## ⛓️ Hyperledger Fabric on Kubernetes
 
-[![Hyperledger Fabric on Kubernetes](https://img.shields.io/badge/Hyperledger_Fabric-Kubernetes_Network-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://github.com/imos64/hyperledger-fabric-on-kubernetes)
+[![Hyperledger Fabric on Kubernetes](https://img.shields.io/badge/Hyperledger_Fabric-Kubernetes_Network-0F2A44?style=flat-square&labelColor=061423&logo=hyperledger&logoColor=D9A441)](https://github.com/imos64/hyperledger-fabric-on-kubernetes)
 
 Kubernetes-based Hyperledger Fabric infrastructure covering certificate authorities, peers, orderers, CouchDB, channels, connection profiles, and chaincode lifecycle.
 
@@ -71,7 +62,7 @@ Kubernetes-based Hyperledger Fabric infrastructure covering certificate authorit
 
 ## 🌳 TreeTracker / HLF Enterprise Productionization
 
-[![TreeTracker Infrastructure](https://img.shields.io/badge/TreeTracker_Infrastructure-Cloud_&_Blockchain_Platform-15803D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imos64/treetracker-infrastructure)
+[![TreeTracker Infrastructure](https://img.shields.io/badge/TreeTracker_Infrastructure-Cloud_&_Blockchain_Platform-0F2A44?style=flat-square&labelColor=061423&logo=github&logoColor=D9A441)](https://github.com/imos64/treetracker-infrastructure)
 
 Productionization work across the TreeTracker and Hyperledger Fabric stack:
 
@@ -88,7 +79,7 @@ Productionization work across the TreeTracker and Hyperledger Fabric stack:
 
 ## ⚙️ DevOps Engineering Portfolio
 
-[![DevOps Projects](https://img.shields.io/badge/DevOps_Projects-Automation_&_Cloud_Native-2563EB?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/imos64/DevOps-Projects)
+[![DevOps Projects](https://img.shields.io/badge/DevOps_Projects-Automation_&_Cloud_Native-0F2A44?style=flat-square&labelColor=061423&logo=githubactions&logoColor=D9A441)](https://github.com/imos64/DevOps-Projects)
 
 Containerization, infrastructure automation, CI/CD, observability, Kubernetes, and cloud-native delivery patterns.
 
@@ -96,7 +87,7 @@ Containerization, infrastructure automation, CI/CD, observability, Kubernetes, a
 
 ## 📊 Kubernetes Observability
 
-[![Kubernetes Observability](https://img.shields.io/badge/Kubernetes_Observability-Prometheus_&_Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://github.com/imos64/kubernetes-grafana-prometheus)
+[![Kubernetes Observability](https://img.shields.io/badge/Kubernetes_Observability-Prometheus_&_Grafana-0F2A44?style=flat-square&labelColor=061423&logo=grafana&logoColor=D9A441)](https://github.com/imos64/kubernetes-grafana-prometheus)
 
 Monitoring and observability patterns for Kubernetes using Prometheus and Grafana.
 
@@ -104,16 +95,9 @@ Monitoring and observability patterns for Kubernetes using Prometheus and Grafan
 
 # 🤖 Frontier AI Benchmark Engineering
 
-<div align="center">
-
-
-
-
-![221 Projects](https://img.shields.io/badge/Recovered_Benchmark_Task%2FProject_Directories-221-7C3AED?style=for-the-badge)
-![Terminal Bench](https://img.shields.io/badge/Terminal--Bench-Task_Engineering-111827?style=for-the-badge)
-![Senior SWE Bench](https://img.shields.io/badge/Senior_SWE--Bench-Review_Engineering-2563EB?style=for-the-badge)
-
-</div>
+![221 Projects](https://img.shields.io/badge/Recovered_Benchmark_Task%2FProject_Directories-221-D9A441?style=flat-square&labelColor=061423)
+![Terminal Bench](https://img.shields.io/badge/Terminal--Bench-Task_Engineering-0F2A44?style=flat-square&labelColor=061423)
+![Senior SWE Bench](https://img.shields.io/badge/Senior_SWE--Bench-Review_Engineering-0F2A44?style=flat-square&labelColor=061423)
 
 The recovered Harbor and TBench workspace contains **221 task/project directories after obvious template and test scaffolding are excluded**. I use this portfolio to demonstrate breadth across secure systems, software engineering, infrastructure, distributed systems, and AI-agent evaluation.
 
@@ -121,9 +105,9 @@ The recovered Harbor and TBench workspace contains **221 task/project directorie
 
 ## 🧪 Terminal-Bench 1.0 / 2.0 / 2.1 / 3.0
 
-[![Terminal Bench 2](https://img.shields.io/badge/Terminal--Bench_2-Agent_Benchmarking-111827?style=for-the-badge)](https://github.com/imos64/terminal-bench-2)
-[![Terminal Bench 2.1](https://img.shields.io/badge/Terminal--Bench_2.1-Task_Engineering-1F2937?style=for-the-badge)](https://github.com/imos64/terminal-bench-2-1)
-[![Terminal Bench 3](https://img.shields.io/badge/Terminal--Bench_3-Frontier_Agent_Evaluation-000000?style=for-the-badge)](https://github.com/imos64/terminal-bench-3)
+[![Terminal Bench 2](https://img.shields.io/badge/Terminal--Bench_2-Agent_Benchmarking-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/terminal-bench-2)
+[![Terminal Bench 2.1](https://img.shields.io/badge/Terminal--Bench_2.1-Task_Engineering-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/terminal-bench-2-1)
+[![Terminal Bench 3](https://img.shields.io/badge/Terminal--Bench_3-Frontier_Agent_Evaluation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/terminal-bench-3)
 
 Engineering work includes:
 
@@ -192,7 +176,7 @@ Research-oriented task areas include:
 
 ## 🧠 Senior SWE-Bench
 
-[![SWE Bench](https://img.shields.io/badge/Senior_SWE--Bench-Coding_Agent_Evaluation-2563EB?style=for-the-badge)](https://github.com/imos64/SWE-bench)
+[![SWE Bench](https://img.shields.io/badge/Senior_SWE--Bench-Coding_Agent_Evaluation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/SWE-bench)
 
 Repository-scale review work includes:
 
@@ -208,7 +192,7 @@ Core evaluation skills include repository investigation, production-fix review, 
 
 ## 🎮 Wordle AI Benchmark
 
-[![Wordle AI Benchmark](https://img.shields.io/badge/Wordle_AI_Benchmark-LLM_Evaluation-7C3AED?style=for-the-badge&logo=python&logoColor=white)](https://github.com/imos64/Snorkel-Wordle-Benchmark)
+[![Wordle AI Benchmark](https://img.shields.io/badge/Wordle_AI_Benchmark-LLM_Evaluation-0F2A44?style=flat-square&labelColor=061423&logo=python&logoColor=D9A441)](https://github.com/imos64/Snorkel-Wordle-Benchmark)
 
 LLM benchmarking environment for strategic reasoning with:
 
@@ -218,7 +202,7 @@ LLM benchmarking environment for strategic reasoning with:
 
 ## 📄 ExtractBench
 
-[![ExtractBench](https://img.shields.io/badge/ExtractBench-Document_AI-7C3AED?style=for-the-badge)](https://github.com/imos64/ExtractBench)
+[![ExtractBench](https://img.shields.io/badge/ExtractBench-Document_AI-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/ExtractBench)
 
 Schema-guided enterprise document extraction benchmark covering structured-output accuracy, completeness, grounding, and model evaluation.
 
@@ -228,9 +212,6 @@ Schema-guided enterprise document extraction benchmark covering structured-outpu
 
 <details>
 <summary><strong>Expand the complete recovered Harbor & TBench inventory</strong></summary>
-
-
-
 
 <br/>
 
@@ -291,23 +272,23 @@ Other older or no-longer-present directories:
 
 # ☸️ Kubernetes & Platform Engineering
 
-[![Kubernetes Solutions](https://img.shields.io/badge/Kubernetes-Solutions-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/imos64/kubernetes-solutions)
-[![Helm Charts](https://img.shields.io/badge/Helm-Charts-0F1689?style=flat-square&logo=helm&logoColor=white)](https://github.com/imos64/helm-charts)
-[![Cloud on K8s](https://img.shields.io/badge/Cloud-on_Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/imos64/cloud-on-k8s)
-[![Kubernetes Manifests](https://img.shields.io/badge/Kubernetes-Manifests-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/imos64/kubernetes-manifests)
-[![Velero](https://img.shields.io/badge/Velero-Backup_&_Recovery-00ADEF?style=flat-square)](https://github.com/imos64/velero)
-[![Cert Manager](https://img.shields.io/badge/cert--manager-TLS_Automation-3A7DCE?style=flat-square)](https://github.com/imos64/cert-manager)
-[![Argo CD](https://img.shields.io/badge/Argo_CD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://github.com/imos64/argo-cd)
-[![OpenTofu](https://img.shields.io/badge/OpenTofu-IaC-FFDA18?style=flat-square&logo=opentofu&logoColor=black)](https://github.com/imos64/opentofu)
+[![Kubernetes Solutions](https://img.shields.io/badge/Kubernetes-Solutions-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/kubernetes-solutions)
+[![Helm Charts](https://img.shields.io/badge/Helm-Charts-0F2A44?style=flat-square&labelColor=061423&logo=helm&logoColor=9FC0E0)](https://github.com/imos64/helm-charts)
+[![Cloud on K8s](https://img.shields.io/badge/Cloud-on_Kubernetes-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/cloud-on-k8s)
+[![Kubernetes Manifests](https://img.shields.io/badge/Kubernetes-Manifests-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/kubernetes-manifests)
+[![Velero](https://img.shields.io/badge/Velero-Backup_&_Recovery-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/velero)
+[![Cert Manager](https://img.shields.io/badge/cert--manager-TLS_Automation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/cert-manager)
+[![Argo CD](https://img.shields.io/badge/Argo_CD-GitOps-0F2A44?style=flat-square&labelColor=061423&logo=argo&logoColor=9FC0E0)](https://github.com/imos64/argo-cd)
+[![OpenTofu](https://img.shields.io/badge/OpenTofu-IaC-0F2A44?style=flat-square&labelColor=061423&logo=opentofu&logoColor=9FC0E0)](https://github.com/imos64/opentofu)
 
 ---
 
 # 🔐 DevSecOps & Security Engineering
 
-[![Trivy](https://img.shields.io/badge/Trivy-Container_Security-1904DA?style=flat-square)](https://github.com/imos64/trivy)
-[![Gitleaks](https://img.shields.io/badge/Gitleaks-Secret_Scanning-EA4335?style=flat-square)](https://github.com/imos64/gitleaks-action)
-[![WebGoat](https://img.shields.io/badge/WebGoat-AppSec_Lab-F59E0B?style=flat-square)](https://github.com/imos64/WebGoat)
-[![Harbor](https://img.shields.io/badge/Harbor-Container_Registry-60B932?style=flat-square&logo=harbor&logoColor=white)](https://github.com/imos64/harbor)
+[![Trivy](https://img.shields.io/badge/Trivy-Container_Security-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/trivy)
+[![Gitleaks](https://img.shields.io/badge/Gitleaks-Secret_Scanning-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/gitleaks-action)
+[![WebGoat](https://img.shields.io/badge/WebGoat-AppSec_Lab-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/WebGoat)
+[![Harbor](https://img.shields.io/badge/Harbor-Container_Registry-0F2A44?style=flat-square&labelColor=061423&logo=harbor&logoColor=9FC0E0)](https://github.com/imos64/harbor)
 
 **Focus:** AppSec • IAM • OAuth/OIDC • JWT • DPoP • mTLS • container security • secret detection • CI/CD security • Kubernetes security • TLS • secure software delivery • runtime protection • supply-chain security
 
@@ -337,51 +318,46 @@ Windows/WSL performance and disk-storage diagnostics.
 
 ### Cloud • Infrastructure • Platform
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0A1C30?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)
+![Docker](https://img.shields.io/badge/Docker-0A1C30?style=flat-square&logo=docker&logoColor=6EA8FE)
+![Terraform](https://img.shields.io/badge/Terraform-0A1C30?style=flat-square&logo=terraform&logoColor=A78BFA)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-0A1C30?style=flat-square&logo=opentofu&logoColor=FFDA18)
+![Helm](https://img.shields.io/badge/Helm-0A1C30?style=flat-square&logo=helm&logoColor=8AB4F8)
+![Argo CD](https://img.shields.io/badge/Argo_CD-0A1C30?style=flat-square&logo=argo&logoColor=EF7B4D)
+![Ansible](https://img.shields.io/badge/Ansible-0A1C30?style=flat-square&logo=ansible&logoColor=E96B6B)
 
 ### CI/CD • Observability • Security
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1C30?style=flat-square&logo=githubactions&logoColor=6EA8FE)
+![Jenkins](https://img.shields.io/badge/Jenkins-0A1C30?style=flat-square&logo=jenkins&logoColor=E4738A)
+![Prometheus](https://img.shields.io/badge/Prometheus-0A1C30?style=flat-square&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-0A1C30?style=flat-square&logo=grafana&logoColor=F46800)
+![Trivy](https://img.shields.io/badge/Trivy-0A1C30?style=flat-square&logo=aqua&logoColor=6EA8FE)
 
 ### Development • Data • AI
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A1C30?style=flat-square&logo=python&logoColor=FFD343)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A1C30?style=flat-square&logo=fastapi&logoColor=05B2A0)
+![Java](https://img.shields.io/badge/Java-0A1C30?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A1C30?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A1C30?style=flat-square&logo=typescript&logoColor=3178C6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1C30?style=flat-square&logo=postgresql&logoColor=8AB4F8)
+![MySQL](https://img.shields.io/badge/MySQL-0A1C30?style=flat-square&logo=mysql&logoColor=8AB4F8)
+![Redis](https://img.shields.io/badge/Redis-0A1C30?style=flat-square&logo=redis&logoColor=DC382D)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-0A1C30?style=flat-square&logo=opensearch&logoColor=6EA8FE)
 
 ### Distributed Systems • Blockchain
 
-![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-0A1C30?style=flat-square&logo=hyperledger&logoColor=D9A441)
+![CouchDB](https://img.shields.io/badge/CouchDB-0A1C30?style=flat-square&logo=apachecouchdb&logoColor=E42528)
 
 ---
 
 # 📈 GitHub Activity
 
-<div align="center">
-
-
-<img height="170" src="https://streak-stats.demolab.com?user=imos64&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
+<img height="170" src="https://streak-stats.demolab.com?user=imos64&hide_border=true&background=0A1C30&stroke=17324F&ring=D9A441&fire=D9A441&currStreakNum=F2F7FC&currStreakLabel=D9A441&sideNums=F2F7FC&sideLabels=93B2D0&dates=6C89A8" alt="GitHub contribution streak" />
 
 ---
 
@@ -398,19 +374,12 @@ Windows/WSL performance and disk-storage diagnostics.
 
 ---
 
-<div align="center">
-
-
-
-
 ## 🤝 Let's Connect
 
 I am interested in **DevSecOps**, **SRE**, **cloud infrastructure**, **AI systems**, **distributed systems**, **security engineering**, and **platform engineering** opportunities and collaborations.
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imosaikoroje/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0F2A44?style=flat-square&labelColor=061423&logo=linkedin&logoColor=D9A441)](https://www.linkedin.com/in/imosaikoroje/)
 
 ### Build securely • Operate reliably • Automate intelligently
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=000000" width="100%" />
-
-</div>
+<img src="./assets/footer.svg" alt="" width="100%" />
