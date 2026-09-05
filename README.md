@@ -379,13 +379,7 @@ Windows/WSL performance and disk-storage diagnostics.
 <div align="center">
 
 
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imos64&show_icons=true&hide_border=true&rank_icon=github" alt="Imos GitHub stats" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=imos64&hide_border=true" alt="GitHub contribution streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=imos64&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
