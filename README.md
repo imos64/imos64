@@ -352,14 +352,14 @@ Windows/WSL performance and disk-storage diagnostics.
 ### Cloud • Infrastructure • Platform
 
 [![AWS](https://img.shields.io/badge/AWS-0A1C30?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://github.com/imos64/setup-guide/tree/main)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)
+[![OCI](https://img.shields.io/badge/Oracle_Cloud-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://www.oracle.com/cloud/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
-![Docker](https://img.shields.io/badge/Docker-0A1C30?style=flat-square&logo=docker&logoColor=6EA8FE)
+[![Docker](https://img.shields.io/badge/Docker-0A1C30?style=flat-square&logo=docker&logoColor=6EA8FE)](https://www.docker.com/company/)
 [![Terraform](https://img.shields.io/badge/Terraform-0A1C30?style=flat-square&logo=terraform&logoColor=A78BFA)](https://github.com/imos64/prometheus-kubernetes/tree/main)
 [![OpenTofu](https://img.shields.io/badge/OpenTofu-0A1C30?style=flat-square&logo=opentofu&logoColor=FFDA18)](https://github.com/imos64/prometheus-kubernetes/tree/main)
 [![Helm](https://img.shields.io/badge/Helm-0A1C30?style=flat-square&logo=helm&logoColor=8AB4F8)](https://github.com/imos64/helm-platform-toolkit/tree/main)
 [![Argo CD](https://img.shields.io/badge/Argo_CD-0A1C30?style=flat-square&logo=argo&logoColor=EF7B4D)](https://github.com/imos64/argocd-kubernetes/tree/main)
-![Ansible](https://img.shields.io/badge/Ansible-0A1C30?style=flat-square&logo=ansible&logoColor=E96B6B)
+[![Ansible](https://img.shields.io/badge/Ansible-0A1C30?style=flat-square&logo=ansible&logoColor=E96B6B)](https://docs.ansible.com/projects/ansible/latest/getting_started/introduction.html)
 
 ### CI/CD • Observability • Security
 
@@ -376,14 +376,14 @@ Windows/WSL performance and disk-storage diagnostics.
 ### Development • Data • AI
 
 [![Python](https://img.shields.io/badge/Python-0A1C30?style=flat-square&logo=python&logoColor=FFD343)](https://github.com/imos64/checkov-kubernetes/tree/main)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A1C30?style=flat-square&logo=fastapi&logoColor=05B2A0)
-![Java](https://img.shields.io/badge/Java-0A1C30?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A1C30?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A1C30?style=flat-square&logo=typescript&logoColor=3178C6)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0A1C30?style=flat-square&logo=fastapi&logoColor=05B2A0)](https://fastapi.tiangolo.com/)
+[![Java](https://img.shields.io/badge/Java-0A1C30?style=flat-square&logo=openjdk&logoColor=ED8B00)](https://www.java.com/en/download/help/whatis_java.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0A1C30?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://tc39.es/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0A1C30?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1C30?style=flat-square&logo=postgresql&logoColor=8AB4F8)](https://github.com/imos64/postgresql-kubernetes/tree/main)
 [![MySQL](https://img.shields.io/badge/MySQL-0A1C30?style=flat-square&logo=mysql&logoColor=8AB4F8)](https://github.com/imos64/mysql-kubernetes/tree/main)
 [![Redis](https://img.shields.io/badge/Redis-0A1C30?style=flat-square&logo=redis&logoColor=DC382D)](https://github.com/imos64/redis-kubernetes/tree/main)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-0A1C30?style=flat-square&logo=opensearch&logoColor=6EA8FE)
+[![OpenSearch](https://img.shields.io/badge/OpenSearch-0A1C30?style=flat-square&logo=opensearch&logoColor=6EA8FE)](https://opensearch.org/about/)
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-0A1C30?style=flat-square&logo=mongodb&logoColor=47A248)](https://github.com/imos64/mongodb-kubernetes/tree/main)
 [![Cassandra](https://img.shields.io/badge/Cassandra-0A1C30?style=flat-square&logo=apachecassandra&logoColor=8AB4F8)](https://github.com/imos64/cassandra-kubernetes/tree/main)
