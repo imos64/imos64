@@ -101,18 +101,18 @@ Validated in an isolated cluster: metrics collection, 15 Grafana dashboards, log
 # 🤖 Frontier AI Benchmark Engineering
 
 ![221 Projects](https://img.shields.io/badge/Recovered_Benchmark_Task%2FProject_Directories-221-D9A441?style=flat-square&labelColor=061423)
-![Terminal Bench](https://img.shields.io/badge/Terminal--Bench-Task_Engineering-0F2A44?style=flat-square&labelColor=061423)
+[![Terminal Bench](https://img.shields.io/badge/Terminal--Bench-Task_Engineering-0F2A44?style=flat-square&labelColor=061423)](https://github.com/harbor-framework/terminal-bench)
 ![Senior SWE Bench](https://img.shields.io/badge/Senior_SWE--Bench-Review_Engineering-0F2A44?style=flat-square&labelColor=061423)
 
-The recovered Harbor and TBench workspace contains **221 task/project directories after obvious template and test scaffolding are excluded**. I use this portfolio to demonstrate breadth across secure systems, software engineering, infrastructure, distributed systems, and AI-agent evaluation.
+The recovered [Harbor](https://github.com/harbor-framework/harbor) and TBench workspace contains **221 task/project directories after obvious template and test scaffolding are excluded**. I use this portfolio to demonstrate breadth across secure systems, software engineering, infrastructure, distributed systems, and AI-agent evaluation.
 
 > **Portfolio accuracy note:** the 221 figure represents recovered task/project directories. It is not presented as 221 accepted benchmark submissions. Historical month grouping is based on current workspace timestamps and should be treated as an approximate timeline.
 
-## 🧪 Terminal-Bench 1.0 / 2.0 / 2.1 / 3.0
+## 🧪 Terminal-Bench [1.0](https://github.com/harbor-framework/terminal-bench-1) / [2.0](https://github.com/harbor-framework/terminal-bench-2) / [2.1](https://github.com/harbor-framework/terminal-bench-2-1) / [3.0](https://github.com/harbor-framework/terminal-bench)
 
-![Terminal Bench 2](https://img.shields.io/badge/Terminal--Bench_2-Agent_Benchmarking-0F2A44?style=flat-square&labelColor=061423)
-![Terminal Bench 2.1](https://img.shields.io/badge/Terminal--Bench_2.1-Task_Engineering-0F2A44?style=flat-square&labelColor=061423)
-![Terminal Bench 3](https://img.shields.io/badge/Terminal--Bench_3-Frontier_Agent_Evaluation-0F2A44?style=flat-square&labelColor=061423)
+[![Terminal Bench 2](https://img.shields.io/badge/Terminal--Bench_2-Agent_Benchmarking-0F2A44?style=flat-square&labelColor=061423)](https://github.com/harbor-framework/terminal-bench-2)
+[![Terminal Bench 2.1](https://img.shields.io/badge/Terminal--Bench_2.1-Task_Engineering-0F2A44?style=flat-square&labelColor=061423)](https://github.com/harbor-framework/terminal-bench-2-1)
+[![Terminal Bench 3](https://img.shields.io/badge/Terminal--Bench_3-Frontier_Agent_Evaluation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/harbor-framework/terminal-bench)
 
 Engineering work includes:
 
