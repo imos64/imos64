@@ -3,13 +3,13 @@
 ### Building secure infrastructure • Reliable platforms • Distributed systems • Frontier AI evaluation environments
 
 [![My engineering portfolio](https://img.shields.io/badge/engineering_portfolio-0F2A44?style=flat-square&labelColor=061423&logo=github&logoColor=D9A441)](https://github.com/imos64/imos64/tree/main)
-![Profile Views](https://komarev.com/ghpvc/?username=imos64&style=flat-square&label=PROFILE+VIEWS&color=0F2A44&labelColor=061423)
+[![Profile Views](https://komarev.com/ghpvc/?username=imos64&style=flat-square&label=PROFILE+VIEWS&color=0F2A44&labelColor=061423)](https://github.com/imos64)
 
-![DevSecOps](https://img.shields.io/badge/DevSecOps-Security_by_Design-0F2A44?style=flat-square&labelColor=061423)
-![SRE](https://img.shields.io/badge/SRE-Reliability_Engineering-0F2A44?style=flat-square&labelColor=061423)
+[![DevSecOps](https://img.shields.io/badge/DevSecOps-Security_by_Design-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
+[![SRE](https://img.shields.io/badge/SRE-Reliability_Engineering-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform_Engineering-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
-![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-Benchmark_Engineering-0F2A44?style=flat-square&labelColor=061423)
-![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-Distributed_Systems-0F2A44?style=flat-square&labelColor=061423)
+[![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-Benchmark_Engineering-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
+[![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-Distributed_Systems-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
 
 ---
 
@@ -111,9 +111,9 @@ Validated in an isolated cluster: metrics collection, 15 Grafana dashboards, log
 
 # 🤖 Frontier AI Benchmark Engineering
 
-![221 Projects](https://img.shields.io/badge/Recovered_Benchmark_Task%2FProject_Directories-221-D9A441?style=flat-square&labelColor=061423)
+[![221 Projects](https://img.shields.io/badge/Recovered_Benchmark_Task%2FProject_Directories-221-D9A441?style=flat-square&labelColor=061423)](https://github.com/imos64)
 [![Terminal Bench](https://img.shields.io/badge/Terminal--Bench-Task_Engineering-0F2A44?style=flat-square&labelColor=061423)](https://github.com/harbor-framework/terminal-bench)
-![Senior SWE Bench](https://img.shields.io/badge/Senior_SWE--Bench-Review_Engineering-0F2A44?style=flat-square&labelColor=061423)
+[![Senior SWE Bench](https://img.shields.io/badge/Senior_SWE--Bench-Review_Engineering-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
 
 Community:
 
@@ -196,7 +196,7 @@ Research-oriented task areas include:
 
 ## 🧠 Senior SWE-Bench
 
-![SWE Bench](https://img.shields.io/badge/Senior_SWE--Bench-Coding_Agent_Evaluation-0F2A44?style=flat-square&labelColor=061423)
+[![SWE Bench](https://img.shields.io/badge/Senior_SWE--Bench-Coding_Agent_Evaluation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
 
 Repository-scale review work includes:
 
@@ -212,7 +212,7 @@ Core evaluation skills include repository investigation, production-fix review, 
 
 ## 🎮 Wordle AI Benchmark
 
-![Wordle AI Benchmark](https://img.shields.io/badge/Wordle_AI_Benchmark-LLM_Evaluation-0F2A44?style=flat-square&labelColor=061423&logo=python&logoColor=D9A441)
+[![Wordle AI Benchmark](https://img.shields.io/badge/Wordle_AI_Benchmark-LLM_Evaluation-0F2A44?style=flat-square&labelColor=061423&logo=python&logoColor=D9A441)](https://github.com/imos64)
 
 LLM benchmarking environment for strategic reasoning with:
 
@@ -222,7 +222,7 @@ LLM benchmarking environment for strategic reasoning with:
 
 ## 📄 ExtractBench
 
-![ExtractBench](https://img.shields.io/badge/ExtractBench-Document_AI-0F2A44?style=flat-square&labelColor=061423)
+[![ExtractBench](https://img.shields.io/badge/ExtractBench-Document_AI-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
 
 Schema-guided enterprise document extraction benchmark covering structured-output accuracy, completeness, grounding, and model evaluation.
 
@@ -294,10 +294,10 @@ Other older or no-longer-present directories:
 
 [![Kubernetes Solutions](https://img.shields.io/badge/Kubernetes-Solutions-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
 [![Helm Charts](https://img.shields.io/badge/Helm-Charts-0F2A44?style=flat-square&labelColor=061423&logo=helm&logoColor=9FC0E0)](https://github.com/imos64/helm-platform-toolkit/tree/main)
-![Cloud on K8s](https://img.shields.io/badge/Cloud-on_Kubernetes-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)
+[![Cloud on K8s](https://img.shields.io/badge/Cloud-on_Kubernetes-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64)
 [![Kubernetes Manifests](https://img.shields.io/badge/Kubernetes-Manifests-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
 [![Velero](https://img.shields.io/badge/Velero-Backup_&_Recovery-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/velero-kubernetes/tree/main)
-![Cert Manager](https://img.shields.io/badge/cert--manager-TLS_Automation-0F2A44?style=flat-square&labelColor=061423)
+[![Cert Manager](https://img.shields.io/badge/cert--manager-TLS_Automation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
 [![Argo CD](https://img.shields.io/badge/Argo_CD-GitOps-0F2A44?style=flat-square&labelColor=061423&logo=argo&logoColor=9FC0E0)](https://github.com/imos64/argocd-kubernetes/tree/main)
 [![OpenTofu](https://img.shields.io/badge/OpenTofu-IaC-0F2A44?style=flat-square&labelColor=061423&logo=opentofu&logoColor=9FC0E0)](https://github.com/imos64/prometheus-kubernetes/tree/main)
 
@@ -319,9 +319,9 @@ My component deployment repositories below include Kubernetes manifests, Helm, T
 [![NeuVector](https://img.shields.io/badge/NeuVector-Container_Security-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/neuvector-kubernetes/tree/main)
 [![Prisma Cloud Defender](https://img.shields.io/badge/Prisma_Cloud_Defender-Runtime_Protection-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/prisma-cloud-defender-kubernetes/tree/main)
 [![Checkov](https://img.shields.io/badge/Checkov-IaC_Scanning-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/checkov-kubernetes/tree/main)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-Secret_Scanning-0F2A44?style=flat-square&labelColor=061423)
-![WebGoat](https://img.shields.io/badge/WebGoat-AppSec_Lab-0F2A44?style=flat-square&labelColor=061423)
-![Harbor](https://img.shields.io/badge/Harbor-Container_Registry-0F2A44?style=flat-square&labelColor=061423&logo=harbor&logoColor=9FC0E0)
+[![Gitleaks](https://img.shields.io/badge/Gitleaks-Secret_Scanning-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
+[![WebGoat](https://img.shields.io/badge/WebGoat-AppSec_Lab-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
+[![Harbor](https://img.shields.io/badge/Harbor-Container_Registry-0F2A44?style=flat-square&labelColor=061423&logo=harbor&logoColor=9FC0E0)](https://github.com/imos64)
 
 **Focus:** AppSec • IAM • OAuth/OIDC • JWT • DPoP • mTLS • container security • secret detection • CI/CD security • Kubernetes security • TLS • secure software delivery • runtime protection • supply-chain security
 
