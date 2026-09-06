@@ -87,9 +87,14 @@ My TreeTracker Wallet PR covers GitHub Actions CI/CD, Docker builds, security sc
 
 ## 📊 Kubernetes Observability
 
-[![Kubernetes Observability](https://img.shields.io/badge/Kubernetes_Observability-Prometheus_&_Grafana-0F2A44?style=flat-square&labelColor=061423&logo=grafana&logoColor=D9A441)](https://github.com/imos64/office/blob/main/values.yaml)
+[![Prometheus](https://img.shields.io/badge/Prometheus-Metrics_%26_Alerts-0F2A44?style=flat-square&labelColor=061423&logo=prometheus&logoColor=D9A441)](https://github.com/imos64/prometheus-kubernetes)
+[![Grafana](https://img.shields.io/badge/Grafana-Dashboards-0F2A44?style=flat-square&labelColor=061423&logo=grafana&logoColor=D9A441)](https://github.com/imos64/grafana-kubernetes)
+[![Loki and Alloy](https://img.shields.io/badge/Loki_%26_Alloy-Centralized_Logs-0F2A44?style=flat-square&labelColor=061423&logo=grafana&logoColor=D9A441)](https://github.com/imos64/loki-kubernetes)
+[![Alertmanager](https://img.shields.io/badge/Alertmanager-Alert_Routing-0F2A44?style=flat-square&labelColor=061423&logo=prometheus&logoColor=D9A441)](https://github.com/imos64/alertmanager-kubernetes)
 
-Monitoring and observability patterns for Kubernetes using Prometheus and Grafana.
+My Kubernetes observability deployment repositories, derived from my running Hyperledger Fabric / TreeTracker stack. Each includes Helm charts, native Kubernetes manifests, Terraform and OpenTofu deployments, high-level architecture, and operations runbooks.
+
+Validated in an isolated cluster: metrics collection, 15 Grafana dashboards, log ingestion and queries, alert handling, and persistence across pod restarts. Production profiles document their storage, identity, availability, and recovery requirements.
 
 ---
 
