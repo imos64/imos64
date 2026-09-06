@@ -309,6 +309,7 @@ Other older or no-longer-present directories:
 [![Tomcat](https://img.shields.io/badge/Tomcat-Java_Runtime-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/tomcat-kubernetes/tree/main)
 
 [![Kronic](https://img.shields.io/badge/Kronic-CronJob_Administration-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/kronic-kubernetes/tree/main)
+[![CronWizard](https://img.shields.io/badge/CronWizard-Deployment_Integration-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/cronwizard-kubernetes/tree/main)
 [![Technitium DNS Server](https://img.shields.io/badge/Technitium-DNS_Server-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/technitium-dns-kubernetes/tree/main)
 [![PowerDNS](https://img.shields.io/badge/PowerDNS-Authoritative_DNS-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/powerdns-kubernetes/tree/main)
 [![PowerDNS-Admin](https://img.shields.io/badge/PowerDNS--Admin-DNS_Management-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/powerdns-admin-kubernetes/tree/main)
