@@ -8,7 +8,7 @@
 
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-Security_by_Design-0F2A44?style=flat-square&labelColor=061423)
 ![SRE](https://img.shields.io/badge/SRE-Reliability_Engineering-0F2A44?style=flat-square&labelColor=061423)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform_Engineering-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/office)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform_Engineering-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/office/tree/main)
 ![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-Benchmark_Engineering-0F2A44?style=flat-square&labelColor=061423)
 ![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-Distributed_Systems-0F2A44?style=flat-square&labelColor=061423)
 
@@ -39,7 +39,7 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 
 ## 🧠 Keycloak–Fabric Bridge — Identity & API Integration
 
-[![Keycloak Fabric Bridge](https://img.shields.io/badge/Keycloak_Fabric_Bridge-Identity_Integration-0F2A44?style=flat-square&labelColor=061423&logo=github&logoColor=D9A441)](https://github.com/imos64/treetracker-blockchain-auth)
+[![Keycloak Fabric Bridge](https://img.shields.io/badge/Keycloak_Fabric_Bridge-Identity_Integration-0F2A44?style=flat-square&labelColor=061423&logo=github&logoColor=D9A441)](https://github.com/imos64/treetracker-blockchain-auth/tree/main)
 
 My merged TreeTracker contribution integrates Keycloak authentication with Hyperledger Fabric identity operations.
 
@@ -49,7 +49,7 @@ My merged TreeTracker contribution integrates Keycloak authentication with Hyper
 
 ## ⛓️ Hyperledger Fabric on Kubernetes
 
-[![Hyperledger Fabric on Kubernetes](https://img.shields.io/badge/Hyperledger_Fabric-Kubernetes_Network-0F2A44?style=flat-square&labelColor=061423&logo=hyperledger&logoColor=D9A441)](https://github.com/imos64/treetracker-infrastructure/tree/master/hyperledger-fabric-network)
+[![Hyperledger Fabric on Kubernetes](https://img.shields.io/badge/Hyperledger_Fabric-Kubernetes_Network-0F2A44?style=flat-square&labelColor=061423&logo=hyperledger&logoColor=D9A441)](https://github.com/imos64/treetracker-infrastructure/tree/main)
 
 Kubernetes-based Hyperledger Fabric infrastructure covering certificate authorities, peers, orderers, CouchDB, channels, connection profiles, and chaincode lifecycle.
 
@@ -62,7 +62,7 @@ Kubernetes-based Hyperledger Fabric infrastructure covering certificate authorit
 
 ## 🌳 TreeTracker / HLF Enterprise Productionization
 
-[![TreeTracker Infrastructure](https://img.shields.io/badge/TreeTracker_Infrastructure-Cloud_&_Blockchain_Platform-0F2A44?style=flat-square&labelColor=061423&logo=github&logoColor=D9A441)](https://github.com/imos64/treetracker-infrastructure)
+[![TreeTracker Infrastructure](https://img.shields.io/badge/TreeTracker_Infrastructure-Cloud_&_Blockchain_Platform-0F2A44?style=flat-square&labelColor=061423&logo=github&logoColor=D9A441)](https://github.com/imos64/treetracker-infrastructure/tree/main)
 
 Productionization work across the TreeTracker and Hyperledger Fabric stack:
 
@@ -79,7 +79,7 @@ Productionization work across the TreeTracker and Hyperledger Fabric stack:
 
 ## ⚙️ DevOps Engineering Portfolio
 
-[![TreeTracker Wallet CI/CD](https://img.shields.io/badge/TreeTracker_Wallet-CI%2FCD_Deployment-0F2A44?style=flat-square&labelColor=061423&logo=githubactions&logoColor=D9A441)](https://github.com/imos64/treetracker-wallet-app)
+[![TreeTracker Wallet CI/CD](https://img.shields.io/badge/TreeTracker_Wallet-CI%2FCD_Deployment-0F2A44?style=flat-square&labelColor=061423&logo=githubactions&logoColor=D9A441)](https://github.com/imos64/treetracker-wallet-app/tree/main)
 
 My TreeTracker Wallet work covers GitHub Actions CI/CD, Docker builds, security scanning, SBOM generation, and Kustomize deployment overlays.
 
@@ -87,10 +87,10 @@ My TreeTracker Wallet work covers GitHub Actions CI/CD, Docker builds, security 
 
 ## 📊 Kubernetes Observability
 
-[![Prometheus](https://img.shields.io/badge/Prometheus-Metrics_%26_Alerts-0F2A44?style=flat-square&labelColor=061423&logo=prometheus&logoColor=D9A441)](https://github.com/imos64/prometheus-kubernetes)
-[![Grafana](https://img.shields.io/badge/Grafana-Dashboards-0F2A44?style=flat-square&labelColor=061423&logo=grafana&logoColor=D9A441)](https://github.com/imos64/grafana-kubernetes)
-[![Loki and Alloy](https://img.shields.io/badge/Loki_%26_Alloy-Centralized_Logs-0F2A44?style=flat-square&labelColor=061423&logo=grafana&logoColor=D9A441)](https://github.com/imos64/loki-kubernetes)
-[![Alertmanager](https://img.shields.io/badge/Alertmanager-Alert_Routing-0F2A44?style=flat-square&labelColor=061423&logo=prometheus&logoColor=D9A441)](https://github.com/imos64/alertmanager-kubernetes)
+[![Prometheus](https://img.shields.io/badge/Prometheus-Metrics_%26_Alerts-0F2A44?style=flat-square&labelColor=061423&logo=prometheus&logoColor=D9A441)](https://github.com/imos64/prometheus-kubernetes/tree/main)
+[![Grafana](https://img.shields.io/badge/Grafana-Dashboards-0F2A44?style=flat-square&labelColor=061423&logo=grafana&logoColor=D9A441)](https://github.com/imos64/grafana-kubernetes/tree/main)
+[![Loki and Alloy](https://img.shields.io/badge/Loki_%26_Alloy-Centralized_Logs-0F2A44?style=flat-square&labelColor=061423&logo=grafana&logoColor=D9A441)](https://github.com/imos64/loki-kubernetes/tree/main)
+[![Alertmanager](https://img.shields.io/badge/Alertmanager-Alert_Routing-0F2A44?style=flat-square&labelColor=061423&logo=prometheus&logoColor=D9A441)](https://github.com/imos64/alertmanager-kubernetes/tree/main)
 
 My Kubernetes observability deployment repositories, derived from my running Hyperledger Fabric / TreeTracker stack. Each includes Helm charts, native Kubernetes manifests, Terraform and OpenTofu deployments, high-level architecture, and operations runbooks.
 
@@ -277,14 +277,14 @@ Other older or no-longer-present directories:
 
 # ☸️ Kubernetes & Platform Engineering
 
-[![Kubernetes Solutions](https://img.shields.io/badge/Kubernetes-Solutions-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/office)
-[![Helm Charts](https://img.shields.io/badge/Helm-Charts-0F2A44?style=flat-square&labelColor=061423&logo=helm&logoColor=9FC0E0)](https://github.com/imos64/prometheus-kubernetes/tree/main/charts/prometheus)
+[![Kubernetes Solutions](https://img.shields.io/badge/Kubernetes-Solutions-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/office/tree/main)
+[![Helm Charts](https://img.shields.io/badge/Helm-Charts-0F2A44?style=flat-square&labelColor=061423&logo=helm&logoColor=9FC0E0)](https://github.com/imos64/prometheus-kubernetes/tree/main)
 ![Cloud on K8s](https://img.shields.io/badge/Cloud-on_Kubernetes-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)
-[![Kubernetes Manifests](https://img.shields.io/badge/Kubernetes-Manifests-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/office)
+[![Kubernetes Manifests](https://img.shields.io/badge/Kubernetes-Manifests-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/office/tree/main)
 ![Velero](https://img.shields.io/badge/Velero-Backup_&_Recovery-0F2A44?style=flat-square&labelColor=061423)
 ![Cert Manager](https://img.shields.io/badge/cert--manager-TLS_Automation-0F2A44?style=flat-square&labelColor=061423)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-GitOps-0F2A44?style=flat-square&labelColor=061423&logo=argo&logoColor=9FC0E0)
-[![OpenTofu](https://img.shields.io/badge/OpenTofu-IaC-0F2A44?style=flat-square&labelColor=061423&logo=opentofu&logoColor=9FC0E0)](https://github.com/imos64/prometheus-kubernetes/tree/main/opentofu)
+[![OpenTofu](https://img.shields.io/badge/OpenTofu-IaC-0F2A44?style=flat-square&labelColor=061423&logo=opentofu&logoColor=9FC0E0)](https://github.com/imos64/prometheus-kubernetes/tree/main)
 
 ---
 
@@ -323,39 +323,39 @@ Windows/WSL performance and disk-storage diagnostics.
 
 ### Cloud • Infrastructure • Platform
 
-[![AWS](https://img.shields.io/badge/AWS-0A1C30?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://github.com/imos64/setup-guide)
+[![AWS](https://img.shields.io/badge/AWS-0A1C30?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://github.com/imos64/setup-guide/tree/main)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/office)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/office/tree/main)
 ![Docker](https://img.shields.io/badge/Docker-0A1C30?style=flat-square&logo=docker&logoColor=6EA8FE)
-[![Terraform](https://img.shields.io/badge/Terraform-0A1C30?style=flat-square&logo=terraform&logoColor=A78BFA)](https://github.com/imos64/prometheus-kubernetes/tree/main/terraform)
-[![OpenTofu](https://img.shields.io/badge/OpenTofu-0A1C30?style=flat-square&logo=opentofu&logoColor=FFDA18)](https://github.com/imos64/prometheus-kubernetes/tree/main/opentofu)
-[![Helm](https://img.shields.io/badge/Helm-0A1C30?style=flat-square&logo=helm&logoColor=8AB4F8)](https://github.com/imos64/prometheus-kubernetes/tree/main/charts/prometheus)
+[![Terraform](https://img.shields.io/badge/Terraform-0A1C30?style=flat-square&logo=terraform&logoColor=A78BFA)](https://github.com/imos64/prometheus-kubernetes/tree/main)
+[![OpenTofu](https://img.shields.io/badge/OpenTofu-0A1C30?style=flat-square&logo=opentofu&logoColor=FFDA18)](https://github.com/imos64/prometheus-kubernetes/tree/main)
+[![Helm](https://img.shields.io/badge/Helm-0A1C30?style=flat-square&logo=helm&logoColor=8AB4F8)](https://github.com/imos64/prometheus-kubernetes/tree/main)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-0A1C30?style=flat-square&logo=argo&logoColor=EF7B4D)
 ![Ansible](https://img.shields.io/badge/Ansible-0A1C30?style=flat-square&logo=ansible&logoColor=E96B6B)
 
 ### CI/CD • Observability • Security
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1C30?style=flat-square&logo=githubactions&logoColor=6EA8FE)](https://github.com/imos64/prometheus-kubernetes/tree/main/.github/workflows)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1C30?style=flat-square&logo=githubactions&logoColor=6EA8FE)](https://github.com/imos64/prometheus-kubernetes/tree/main)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0A1C30?style=flat-square&logo=jenkins&logoColor=E4738A)
-[![Prometheus](https://img.shields.io/badge/Prometheus-0A1C30?style=flat-square&logo=prometheus&logoColor=E6522C)](https://github.com/imos64/prometheus-kubernetes)
-[![Grafana](https://img.shields.io/badge/Grafana-0A1C30?style=flat-square&logo=grafana&logoColor=F46800)](https://github.com/imos64/grafana-kubernetes)
+[![Prometheus](https://img.shields.io/badge/Prometheus-0A1C30?style=flat-square&logo=prometheus&logoColor=E6522C)](https://github.com/imos64/prometheus-kubernetes/tree/main)
+[![Grafana](https://img.shields.io/badge/Grafana-0A1C30?style=flat-square&logo=grafana&logoColor=F46800)](https://github.com/imos64/grafana-kubernetes/tree/main)
 ![Trivy](https://img.shields.io/badge/Trivy-0A1C30?style=flat-square&logo=aqua&logoColor=6EA8FE)
 
 ### Development • Data • AI
 
-[![Python](https://img.shields.io/badge/Python-0A1C30?style=flat-square&logo=python&logoColor=FFD343)](https://github.com/imos64/devops/tree/master/scripts)
+[![Python](https://img.shields.io/badge/Python-0A1C30?style=flat-square&logo=python&logoColor=FFD343)](https://github.com/imos64/devops/tree/main)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A1C30?style=flat-square&logo=fastapi&logoColor=05B2A0)
 ![Java](https://img.shields.io/badge/Java-0A1C30?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A1C30?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A1C30?style=flat-square&logo=typescript&logoColor=3178C6)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1C30?style=flat-square&logo=postgresql&logoColor=8AB4F8)
-[![MySQL](https://img.shields.io/badge/MySQL-0A1C30?style=flat-square&logo=mysql&logoColor=8AB4F8)](https://github.com/imos64/mysql-high-availability)
+[![MySQL](https://img.shields.io/badge/MySQL-0A1C30?style=flat-square&logo=mysql&logoColor=8AB4F8)](https://github.com/imos64/mysql-high-availability/tree/main)
 ![Redis](https://img.shields.io/badge/Redis-0A1C30?style=flat-square&logo=redis&logoColor=DC382D)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-0A1C30?style=flat-square&logo=opensearch&logoColor=6EA8FE)
 
 ### Distributed Systems • Blockchain
 
-[![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-0A1C30?style=flat-square&logo=hyperledger&logoColor=D9A441)](https://github.com/imos64/treetracker-infrastructure/tree/master/hyperledger-fabric-network)
+[![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-0A1C30?style=flat-square&logo=hyperledger&logoColor=D9A441)](https://github.com/imos64/treetracker-infrastructure/tree/main)
 ![CouchDB](https://img.shields.io/badge/CouchDB-0A1C30?style=flat-square&logo=apachecouchdb&logoColor=E42528)
 
 ---
