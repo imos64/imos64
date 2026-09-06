@@ -373,6 +373,22 @@ Windows/WSL performance and disk-storage diagnostics.
 [![Nexus](https://img.shields.io/badge/Nexus-0A1C30?style=flat-square&logo=sonatype&logoColor=8AB4F8)](https://github.com/imos64/nexus-kubernetes/tree/main)
 [![Selenium Grid](https://img.shields.io/badge/Selenium_Grid-0A1C30?style=flat-square&logo=selenium&logoColor=43B02A)](https://github.com/imos64/selenium-grid-kubernetes/tree/main)
 
+### FinOps • Cost Management • Sustainability
+
+[![Kubecost](https://img.shields.io/badge/Kubecost-0A1C30?style=flat-square&logo=kubernetes&logoColor=43B02A)](https://github.com/imos64/kubecost-kubernetes/tree/main)
+[![OpenCost](https://img.shields.io/badge/OpenCost-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/opencost-kubernetes/tree/main)
+[![kube-green](https://img.shields.io/badge/kube--green-0A1C30?style=flat-square&logo=kubernetes&logoColor=43B02A)](https://github.com/imos64/kube-green-kubernetes/tree/main)
+
+### Security • Runtime Protection • Posture Management
+
+[![Trivy Operator](https://img.shields.io/badge/Trivy_Operator-0A1C30?style=flat-square&logo=aqua&logoColor=6EA8FE)](https://github.com/imos64/trivy-operator-kubernetes/tree/main)
+[![Kubescape Operator](https://img.shields.io/badge/Kubescape_Operator-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubescape-operator-kubernetes/tree/main)
+[![Falco](https://img.shields.io/badge/Falco-0A1C30?style=flat-square&logo=falco&logoColor=00AEC7)](https://github.com/imos64/falco-kubernetes/tree/main)
+[![NeuVector](https://img.shields.io/badge/NeuVector-0A1C30?style=flat-square&logo=suse&logoColor=30BA78)](https://github.com/imos64/neuvector-kubernetes/tree/main)
+[![Prisma Cloud Defender](https://img.shields.io/badge/Prisma_Cloud_Defender-0A1C30?style=flat-square&logo=paloaltonetworks&logoColor=F04E23)](https://github.com/imos64/prisma-cloud-defender-kubernetes/tree/main)
+[![Checkov](https://img.shields.io/badge/Checkov-0A1C30?style=flat-square&logo=paloaltonetworks&logoColor=F04E23)](https://github.com/imos64/checkov-kubernetes/tree/main)
+[![SonarQube](https://img.shields.io/badge/SonarQube-0A1C30?style=flat-square&logo=sonarqube&logoColor=4E9BCD)](https://github.com/imos64/sonarqube-kubernetes/tree/main)
+
 ### Development • Data • AI
 
 [![Python](https://img.shields.io/badge/Python-0A1C30?style=flat-square&logo=python&logoColor=FFD343)](https://github.com/imos64/checkov-kubernetes/tree/main)
