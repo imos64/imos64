@@ -102,10 +102,11 @@ My TreeTracker Wallet work covers GitHub Actions CI/CD, Docker builds, security 
 [![Grafana](https://img.shields.io/badge/Grafana-Dashboards-0F2A44?style=flat-square&labelColor=061423&logo=grafana&logoColor=D9A441)](https://github.com/imos64/grafana-kubernetes/tree/main)
 [![Loki and Alloy](https://img.shields.io/badge/Loki_%26_Alloy-Centralized_Logs-0F2A44?style=flat-square&labelColor=061423&logo=grafana&logoColor=D9A441)](https://github.com/imos64/loki-kubernetes/tree/main)
 [![Alertmanager](https://img.shields.io/badge/Alertmanager-Alert_Routing-0F2A44?style=flat-square&labelColor=061423&logo=prometheus&logoColor=D9A441)](https://github.com/imos64/alertmanager-kubernetes/tree/main)
+[![SigNoz](https://img.shields.io/badge/SigNoz-OpenTelemetry-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/signoz-kubernetes/tree/main)
 
-My Kubernetes observability deployment repositories, derived from my running Hyperledger Fabric / TreeTracker stack. Each includes Helm charts, native Kubernetes manifests, Terraform and OpenTofu deployments, high-level architecture, and operations runbooks.
+My Prometheus, Grafana, Loki and Alertmanager deployment repositories are derived from my running Hyperledger Fabric / TreeTracker stack. SigNoz is an additional deployment package. Each includes Helm charts, native Kubernetes manifests, Terraform and OpenTofu deployments, high-level architecture, and operations runbooks.
 
-Validated in an isolated cluster: metrics collection, 15 Grafana dashboards, log ingestion and queries, alert handling, and persistence across pod restarts. Production profiles document their storage, identity, availability, and recovery requirements.
+Prometheus, Grafana, Loki and Alertmanager were validated in an isolated cluster: metrics collection, 15 Grafana dashboards, log ingestion and queries, alert handling, and persistence across pod restarts. Production profiles document their storage, identity, availability, and recovery requirements.
 
 ---
 
@@ -294,7 +295,7 @@ Other older or no-longer-present directories:
 
 [![Kubernetes Solutions](https://img.shields.io/badge/Kubernetes-Solutions-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
 [![Helm Charts](https://img.shields.io/badge/Helm-Charts-0F2A44?style=flat-square&labelColor=061423&logo=helm&logoColor=9FC0E0)](https://github.com/imos64/helm-platform-toolkit/tree/main)
-[![Cloud on K8s](https://img.shields.io/badge/Cloud-on_Kubernetes-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64)
+[![Cloud on K8s](https://img.shields.io/badge/Cloud-on_Kubernetes-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/kubernetes-cluster/tree/main)
 [![Kubernetes Manifests](https://img.shields.io/badge/Kubernetes-Manifests-0F2A44?style=flat-square&labelColor=061423&logo=kubernetes&logoColor=9FC0E0)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
 [![Velero](https://img.shields.io/badge/Velero-Backup_&_Recovery-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/velero-kubernetes/tree/main)
 [![Cert Manager](https://img.shields.io/badge/cert--manager-TLS_Automation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
@@ -306,6 +307,15 @@ Other older or no-longer-present directories:
 [![OpenCost](https://img.shields.io/badge/OpenCost-Cost_Allocation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/opencost-kubernetes/tree/main)
 [![Nginx](https://img.shields.io/badge/Nginx-Web_Server-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/nginx-kubernetes/tree/main)
 [![Tomcat](https://img.shields.io/badge/Tomcat-Java_Runtime-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/tomcat-kubernetes/tree/main)
+
+[![Kronic](https://img.shields.io/badge/Kronic-CronJob_Administration-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/kronic-kubernetes/tree/main)
+[![Technitium DNS Server](https://img.shields.io/badge/Technitium-DNS_Server-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/technitium-dns-kubernetes/tree/main)
+[![PowerDNS](https://img.shields.io/badge/PowerDNS-Authoritative_DNS-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/powerdns-kubernetes/tree/main)
+[![PowerDNS-Admin](https://img.shields.io/badge/PowerDNS--Admin-DNS_Management-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/powerdns-admin-kubernetes/tree/main)
+[![octoDNS](https://img.shields.io/badge/octoDNS-Declarative_DNS-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/octodns-kubernetes/tree/main)
+[![CoreDNS](https://img.shields.io/badge/CoreDNS-Dedicated_DNS-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/coredns-kubernetes/tree/main)
+[![ExternalDNS](https://img.shields.io/badge/ExternalDNS-Record_Reconciliation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/external-dns-kubernetes/tree/main)
+[![BIND 9](https://img.shields.io/badge/BIND_9-Authoritative_DNS-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/bind9-kubernetes/tree/main)
 
 My component deployment repositories below include Kubernetes manifests, Helm, Terraform, OpenTofu, architecture diagrams and operations runbooks. Database packages use three-member HA topologies; each repository records its validation evidence and remaining production acceptance requirements.
 
