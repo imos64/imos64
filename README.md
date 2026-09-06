@@ -2,7 +2,7 @@
 
 ### Building secure infrastructure • Reliable platforms • Distributed systems • Frontier AI evaluation environments
 
-[My engineering portfolio](https://github.com/imos64/imos64)
+[My engineering portfolio](https://github.com/imos64/imos64/tree/main)
 
 DevSecOps • SRE • [Kubernetes](https://github.com/imos64/kubernetes-platform-baseline/tree/main) • AI Evaluation • Hyperledger
 
@@ -33,7 +33,7 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 
 ## 🧠 Keycloak–Fabric Bridge — Identity & API Integration
 
-Related infrastructure: [My Hyperledger Fabric Kubernetes deployment](https://github.com/imos64/hyperledger-fabric-network-kubernetes)
+Related infrastructure: [My Hyperledger Fabric Kubernetes deployment](https://github.com/imos64/hyperledger-fabric-network-kubernetes/tree/main)
 
 My merged TreeTracker contribution integrates Keycloak authentication with Hyperledger Fabric identity operations.
 
@@ -56,7 +56,7 @@ Kubernetes-based Hyperledger Fabric infrastructure covering certificate authorit
 
 ## 🌳 TreeTracker / HLF Enterprise Productionization
 
-Related infrastructure: [My Fabric network deployment](https://github.com/imos64/hyperledger-fabric-network-kubernetes) • [My Argo CD deployment](https://github.com/imos64/argocd-kubernetes)
+Related infrastructure: [My Fabric network deployment](https://github.com/imos64/hyperledger-fabric-network-kubernetes/tree/main) • [My Argo CD deployment](https://github.com/imos64/argocd-kubernetes/tree/main)
 
 Community: [Greenstand](https://github.com/Greenstand)
 
@@ -75,7 +75,7 @@ Productionization work across the TreeTracker and Hyperledger Fabric stack:
 
 ## ⚙️ DevOps Engineering Portfolio
 
-Related delivery tooling: [My Helm platform toolkit](https://github.com/imos64/helm-platform-toolkit) • [My Jenkins platform deployment](https://github.com/imos64/jenkins-platform-kubernetes)
+Related delivery tooling: [My Helm platform toolkit](https://github.com/imos64/helm-platform-toolkit/tree/main) • [My Jenkins platform deployment](https://github.com/imos64/jenkins-platform-kubernetes/tree/main)
 
 My TreeTracker Wallet work covers GitHub Actions CI/CD, Docker builds, security scanning, SBOM generation, and Kustomize deployment overlays.
 
@@ -346,7 +346,7 @@ Windows/WSL performance and disk-storage diagnostics.
 
 I am interested in **DevSecOps**, **SRE**, **cloud infrastructure**, **AI systems**, **distributed systems**, **security engineering**, and **platform engineering** opportunities and collaborations.
 
-[Explore my Kubernetes platform baseline](https://github.com/imos64/kubernetes-platform-baseline) • [Explore my Helm platform toolkit](https://github.com/imos64/helm-platform-toolkit)
+[Explore my Kubernetes platform baseline](https://github.com/imos64/kubernetes-platform-baseline/tree/main) • [Explore my Helm platform toolkit](https://github.com/imos64/helm-platform-toolkit/tree/main)
 
 ### Build securely • Operate reliably • Automate intelligently
 
