@@ -69,6 +69,19 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 [![ExternalDNS](https://img.shields.io/badge/ExternalDNS-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/external-dns-kubernetes/tree/main)
 [![BIND 9](https://img.shields.io/badge/BIND_9-0A1C30?style=flat-square)](https://github.com/imos64/bind9-kubernetes/tree/main)
 
+### Load Balancers
+
+[![HAProxy](https://img.shields.io/badge/HAProxy-0A1C30?style=flat-square)](https://github.com/imos64/haproxy-load-balancer/tree/main)
+[![NGINX Open Source](https://img.shields.io/badge/NGINX_Open_Source-0A1C30?style=flat-square)](https://github.com/imos64/nginx-load-balancer/tree/main)
+[![Envoy Proxy](https://img.shields.io/badge/Envoy_Proxy-0A1C30?style=flat-square)](https://github.com/imos64/envoy-load-balancer/tree/main)
+[![Traefik Proxy](https://img.shields.io/badge/Traefik_Proxy-0A1C30?style=flat-square)](https://github.com/imos64/traefik-load-balancer/tree/main)
+[![MetalLB](https://img.shields.io/badge/MetalLB-0A1C30?style=flat-square)](https://github.com/imos64/metallb-load-balancer/tree/main)
+[![Keepalived + IPVS](https://img.shields.io/badge/Keepalived_%2B_IPVS-0A1C30?style=flat-square)](https://github.com/imos64/keepalived-ipvs-load-balancer/tree/main)
+[![kube-vip](https://img.shields.io/badge/kube--vip-0A1C30?style=flat-square)](https://github.com/imos64/kube-vip-load-balancer/tree/main)
+[![Apache APISIX](https://img.shields.io/badge/Apache_APISIX-0A1C30?style=flat-square)](https://github.com/imos64/apisix-load-balancer/tree/main)
+[![Caddy](https://img.shields.io/badge/Caddy-0A1C30?style=flat-square)](https://github.com/imos64/caddy-load-balancer/tree/main)
+[![Katran](https://img.shields.io/badge/Katran-0A1C30?style=flat-square)](https://github.com/imos64/katran-load-balancer/tree/main)
+
 ### CI/CD • Observability • Security
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1C30?style=flat-square&logo=githubactions&logoColor=6EA8FE)](https://github.com/imos64/prometheus-kubernetes/tree/main)
