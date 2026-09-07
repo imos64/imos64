@@ -304,7 +304,9 @@ Other older or no-longer-present directories:
 
 [![kube-green](https://img.shields.io/badge/kube--green-Workload_Scheduling-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/kube-green-kubernetes/tree/main)
 [![Kubecost](https://img.shields.io/badge/Kubecost-Cost_Management-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/kubecost-kubernetes/tree/main)
-[![OpenCost](https://img.shields.io/badge/OpenCost-Cost_Allocation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/opencost-kubernetes/tree/main)
+[![Infracost](https://img.shields.io/badge/Infracost-Terraform_Cost_Checks-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/infracost-terraform/tree/main)
+[![Robusta KRR](https://img.shields.io/badge/Robusta_KRR-CPU_%26_Memory_Rightsizing-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/robusta-krr-kubernetes/tree/main)
+[![OpenCost](https://img.shields.io/badge/OpenCost-Cost_Collection_%26_Allocation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/opencost-kubernetes/tree/main)
 [![Nginx](https://img.shields.io/badge/Nginx-Web_Server-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/nginx-kubernetes/tree/main)
 [![Tomcat](https://img.shields.io/badge/Tomcat-Java_Runtime-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64/tomcat-kubernetes/tree/main)
 
