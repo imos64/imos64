@@ -94,6 +94,19 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 [![Karpenter](https://img.shields.io/badge/Karpenter-0A1C30?style=flat-square)](https://github.com/imos64/karpenter-kubernetes/tree/main)
 [![Cluster Autoscaler](https://img.shields.io/badge/Cluster_Autoscaler-0A1C30?style=flat-square)](https://github.com/imos64/cluster-autoscaler-kubernetes/tree/main)
 
+### GitOps
+
+[![Argo CD](https://img.shields.io/badge/Argo_CD-0A1C30?style=flat-square)](https://github.com/imos64/argo-cd-gitops/tree/main)
+[![Flux CD](https://img.shields.io/badge/Flux_CD-0A1C30?style=flat-square)](https://github.com/imos64/flux-cd-gitops/tree/main)
+[![Fleet](https://img.shields.io/badge/Fleet-0A1C30?style=flat-square)](https://github.com/imos64/fleet-gitops/tree/main)
+[![PipeCD](https://img.shields.io/badge/PipeCD-0A1C30?style=flat-square)](https://github.com/imos64/pipecd-gitops/tree/main)
+[![Jenkins X](https://img.shields.io/badge/Jenkins_X-0A1C30?style=flat-square)](https://github.com/imos64/jenkins-x-gitops/tree/main)
+[![Kluctl](https://img.shields.io/badge/Kluctl-0A1C30?style=flat-square)](https://github.com/imos64/kluctl-gitops/tree/main)
+[![werf](https://img.shields.io/badge/werf-0A1C30?style=flat-square)](https://github.com/imos64/werf-gitops/tree/main)
+[![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-0A1C30?style=flat-square)](https://github.com/imos64/argo-rollouts-gitops/tree/main)
+[![Flagger](https://img.shields.io/badge/Flagger-0A1C30?style=flat-square)](https://github.com/imos64/flagger-gitops/tree/main)
+[![Crossplane](https://img.shields.io/badge/Crossplane-0A1C30?style=flat-square)](https://github.com/imos64/crossplane-gitops/tree/main)
+
 ### CI/CD • Observability • Security
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1C30?style=flat-square&logo=githubactions&logoColor=6EA8FE)](https://github.com/imos64/prometheus-kubernetes/tree/main)
