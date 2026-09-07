@@ -120,6 +120,19 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 [![CFSSL](https://img.shields.io/badge/CFSSL-0A1C30?style=flat-square)](https://github.com/imos64/cfssl-pki-kubernetes/tree/main)
 [![Kubernetes Certificate APIs](https://img.shields.io/badge/Kubernetes_Certificate_APIs-0A1C30?style=flat-square)](https://github.com/imos64/kubernetes-certificate-apis/tree/main)
 
+### K8s Certificate Authority (CA) / TLS Certificate Management
+
+[![Smallstep step-ca](https://img.shields.io/badge/Smallstep_step--ca-0A1C30?style=flat-square)](https://github.com/imos64/step-ca-kubernetes/tree/main)
+[![OpenBao PKI](https://img.shields.io/badge/OpenBao_PKI-0A1C30?style=flat-square)](https://github.com/imos64/openbao-pki-kubernetes/tree/main)
+[![cert-manager](https://img.shields.io/badge/cert--manager-0A1C30?style=flat-square)](https://github.com/imos64/cert-manager-kubernetes/tree/main)
+[![EJBCA Community](https://img.shields.io/badge/EJBCA_Community-0A1C30?style=flat-square)](https://github.com/imos64/ejbca-community-kubernetes/tree/main)
+[![OpenXPKI](https://img.shields.io/badge/OpenXPKI-0A1C30?style=flat-square)](https://github.com/imos64/openxpki-kubernetes/tree/main)
+[![Dogtag PKI](https://img.shields.io/badge/Dogtag_PKI-0A1C30?style=flat-square)](https://github.com/imos64/dogtag-pki-kubernetes/tree/main)
+[![CFSSL](https://img.shields.io/badge/CFSSL-0A1C30?style=flat-square)](https://github.com/imos64/cfssl-pki-kubernetes/tree/main)
+[![SPIRE](https://img.shields.io/badge/SPIRE-0A1C30?style=flat-square)](https://github.com/imos64/spire-kubernetes/tree/main)
+[![Easy-RSA](https://img.shields.io/badge/Easy--RSA-0A1C30?style=flat-square)](https://github.com/imos64/easy-rsa-pki/tree/main)
+[![Boulder](https://img.shields.io/badge/Boulder-0A1C30?style=flat-square)](https://github.com/imos64/boulder-acme-ca/tree/main)
+
 ### CI/CD • Observability • Security
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1C30?style=flat-square&logo=githubactions&logoColor=6EA8FE)](https://github.com/imos64/prometheus-kubernetes/tree/main)
