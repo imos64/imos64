@@ -176,7 +176,7 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 
 ### Development • AI
 
-[![Python](https://img.shields.io/badge/Python-0A1C30?style=flat-square&logo=python&logoColor=FFD343)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-0A1C30?style=flat-square&logo=python&logoColor=FFD343)](https://docs.python.org/3/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0A1C30?style=flat-square&logo=fastapi&logoColor=05B2A0)](https://fastapi.tiangolo.com/)
 [![Java](https://img.shields.io/badge/Java-0A1C30?style=flat-square&logo=openjdk&logoColor=ED8B00)](https://www.java.com/en/download/help/whatis_java.html)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0A1C30?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://tc39.es/)
