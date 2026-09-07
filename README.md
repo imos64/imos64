@@ -34,6 +34,96 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 
 ---
 
+# 🛠️ Technology Stack
+
+### Cloud • Infrastructure • Platform
+
+[![AWS](https://img.shields.io/badge/AWS-0A1C30?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/aws)
+[![OCI](https://img.shields.io/badge/Oracle_Cloud-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/oci)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
+[![Docker](https://img.shields.io/badge/Docker-0A1C30?style=flat-square&logo=docker&logoColor=6EA8FE)](https://www.docker.com/company/)
+[![Terraform](https://img.shields.io/badge/Terraform-0A1C30?style=flat-square&logo=terraform&logoColor=A78BFA)](https://github.com/imos64/prometheus-kubernetes/tree/main)
+[![OpenTofu](https://img.shields.io/badge/OpenTofu-0A1C30?style=flat-square&logo=opentofu&logoColor=FFDA18)](https://github.com/imos64/prometheus-kubernetes/tree/main)
+[![Helm](https://img.shields.io/badge/Helm-0A1C30?style=flat-square&logo=helm&logoColor=8AB4F8)](https://github.com/imos64/helm-platform-toolkit/tree/main)
+[![Argo CD](https://img.shields.io/badge/Argo_CD-0A1C30?style=flat-square&logo=argo&logoColor=EF7B4D)](https://github.com/imos64/argocd-kubernetes/tree/main)
+[![Ansible](https://img.shields.io/badge/Ansible-0A1C30?style=flat-square&logo=ansible&logoColor=E96B6B)](https://docs.ansible.com/projects/ansible/latest/getting_started/introduction.html)
+
+[![Secure Hybrid Infrastructure](https://img.shields.io/badge/Secure_Hybrid_Infrastructure-0A1C30?style=flat-square&logo=terraform&logoColor=A78BFA)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main)
+[![Amazon EKS and EC2](https://img.shields.io/badge/Amazon_EKS_%26_EC2-0A1C30?style=flat-square&logo=amazoneks&logoColor=FF9900)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/aws)
+[![Oracle OKE and Compute](https://img.shields.io/badge/Oracle_OKE_%26_Compute-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/oci)
+[![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-0A1C30?style=flat-square&logo=proxmox&logoColor=E57000)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/onprem-proxmox)
+
+### Networking • VPC • VCN • On-premises VLANs
+
+[![AWS Networks](https://img.shields.io/badge/AWS_Networks-0A1C30?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://github.com/imos64/aws-network-infrastructure/tree/main)
+[![Oracle Cloud Networks](https://img.shields.io/badge/Oracle_Cloud_Networks-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://github.com/imos64/oci-network-infrastructure/tree/main)
+[![On-premises Networks](https://img.shields.io/badge/On--premises_Networks-0A1C30?style=flat-square&logo=proxmox&logoColor=E57000)](https://github.com/imos64/onprem-network-infrastructure/tree/main)
+
+### DNS • Authoritative Servers • Management • Automation
+
+[![Technitium DNS Server](https://img.shields.io/badge/Technitium_DNS_Server-0A1C30?style=flat-square)](https://github.com/imos64/technitium-dns-kubernetes/tree/main)
+[![PowerDNS](https://img.shields.io/badge/PowerDNS-0A1C30?style=flat-square)](https://github.com/imos64/powerdns-kubernetes/tree/main)
+[![PowerDNS-Admin](https://img.shields.io/badge/PowerDNS--Admin-0A1C30?style=flat-square)](https://github.com/imos64/powerdns-admin-kubernetes/tree/main)
+[![octoDNS](https://img.shields.io/badge/octoDNS-0A1C30?style=flat-square)](https://github.com/imos64/octodns-kubernetes/tree/main)
+[![CoreDNS](https://img.shields.io/badge/CoreDNS-0A1C30?style=flat-square&logo=coredns&logoColor=6EA8FE)](https://github.com/imos64/coredns-kubernetes/tree/main)
+[![ExternalDNS](https://img.shields.io/badge/ExternalDNS-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/external-dns-kubernetes/tree/main)
+[![BIND 9](https://img.shields.io/badge/BIND_9-0A1C30?style=flat-square)](https://github.com/imos64/bind9-kubernetes/tree/main)
+
+### CI/CD • Observability • Security
+
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1C30?style=flat-square&logo=githubactions&logoColor=6EA8FE)](https://github.com/imos64/prometheus-kubernetes/tree/main)
+[![Jenkins](https://img.shields.io/badge/Jenkins-0A1C30?style=flat-square&logo=jenkins&logoColor=E4738A)](https://github.com/imos64/jenkins-platform-kubernetes/tree/main)
+[![Prometheus](https://img.shields.io/badge/Prometheus-0A1C30?style=flat-square&logo=prometheus&logoColor=E6522C)](https://github.com/imos64/prometheus-kubernetes/tree/main)
+[![Grafana](https://img.shields.io/badge/Grafana-0A1C30?style=flat-square&logo=grafana&logoColor=F46800)](https://github.com/imos64/grafana-kubernetes/tree/main)
+[![Trivy](https://img.shields.io/badge/Trivy-0A1C30?style=flat-square&logo=aqua&logoColor=6EA8FE)](https://github.com/imos64/trivy-operator-kubernetes/tree/main)
+
+[![SonarQube](https://img.shields.io/badge/SonarQube-0A1C30?style=flat-square&logo=sonarqube&logoColor=4E9BCD)](https://github.com/imos64/sonarqube-kubernetes/tree/main)
+[![Nexus](https://img.shields.io/badge/Nexus-0A1C30?style=flat-square&logo=sonatype&logoColor=8AB4F8)](https://github.com/imos64/nexus-kubernetes/tree/main)
+[![Selenium Grid](https://img.shields.io/badge/Selenium_Grid-0A1C30?style=flat-square&logo=selenium&logoColor=43B02A)](https://github.com/imos64/selenium-grid-kubernetes/tree/main)
+
+### FinOps • Cost Management • Sustainability
+
+[![Kubecost](https://img.shields.io/badge/Kubecost-0A1C30?style=flat-square&logo=kubernetes&logoColor=43B02A)](https://github.com/imos64/kubecost-kubernetes/tree/main)
+[![OpenCost](https://img.shields.io/badge/OpenCost-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/opencost-kubernetes/tree/main)
+[![kube-green](https://img.shields.io/badge/kube--green-0A1C30?style=flat-square&logo=kubernetes&logoColor=43B02A)](https://github.com/imos64/kube-green-kubernetes/tree/main)
+
+### Security • Runtime Protection • Posture Management • IaC Scanning
+
+[![Trivy Operator](https://img.shields.io/badge/Trivy_Operator-0A1C30?style=flat-square&logo=aqua&logoColor=6EA8FE)](https://github.com/imos64/trivy-operator-kubernetes/tree/main)
+[![Kubescape Operator](https://img.shields.io/badge/Kubescape_Operator-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubescape-operator-kubernetes/tree/main)
+[![Falco](https://img.shields.io/badge/Falco-0A1C30?style=flat-square&logo=falco&logoColor=00AEC7)](https://github.com/imos64/falco-kubernetes/tree/main)
+[![NeuVector](https://img.shields.io/badge/NeuVector-0A1C30?style=flat-square&logo=suse&logoColor=30BA78)](https://github.com/imos64/neuvector-kubernetes/tree/main)
+[![Prisma Cloud Defender](https://img.shields.io/badge/Prisma_Cloud_Defender-0A1C30?style=flat-square&logo=paloaltonetworks&logoColor=F04E23)](https://github.com/imos64/prisma-cloud-defender-kubernetes/tree/main)
+[![Checkov](https://img.shields.io/badge/Checkov-0A1C30?style=flat-square&logo=paloaltonetworks&logoColor=F04E23)](https://github.com/imos64/checkov-kubernetes/tree/main)
+[![SonarQube](https://img.shields.io/badge/SonarQube-0A1C30?style=flat-square&logo=sonarqube&logoColor=4E9BCD)](https://github.com/imos64/sonarqube-kubernetes/tree/main)
+
+[![Kubernetes Cluster Bootstrap](https://img.shields.io/badge/Kubernetes_Cluster_Bootstrap-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubernetes-cluster/tree/main)
+[![Namespace Security Baseline](https://img.shields.io/badge/Namespace_Security_Baseline-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
+
+### Database Servers • SQL • NoSQL • Search
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1C30?style=flat-square&logo=postgresql&logoColor=8AB4F8)](https://github.com/imos64/postgresql-kubernetes/tree/main)
+[![MySQL](https://img.shields.io/badge/MySQL-0A1C30?style=flat-square&logo=mysql&logoColor=8AB4F8)](https://github.com/imos64/mysql-kubernetes/tree/main)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0A1C30?style=flat-square&logo=mongodb&logoColor=47A248)](https://github.com/imos64/mongodb-kubernetes/tree/main)
+[![Cassandra](https://img.shields.io/badge/Cassandra-0A1C30?style=flat-square&logo=apachecassandra&logoColor=8AB4F8)](https://github.com/imos64/cassandra-kubernetes/tree/main)
+[![CouchDB](https://img.shields.io/badge/CouchDB-0A1C30?style=flat-square&logo=apachecouchdb&logoColor=E42528)](https://github.com/imos64/couchdb-kubernetes/tree/main)
+[![Redis](https://img.shields.io/badge/Redis-0A1C30?style=flat-square&logo=redis&logoColor=DC382D)](https://github.com/imos64/redis-kubernetes/tree/main)
+[![OpenSearch](https://img.shields.io/badge/OpenSearch-0A1C30?style=flat-square&logo=opensearch&logoColor=6EA8FE)](https://opensearch.org/about/)
+
+### Development • AI
+
+[![Python](https://img.shields.io/badge/Python-0A1C30?style=flat-square&logo=python&logoColor=FFD343)](https://github.com/imos64/checkov-kubernetes/tree/main)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0A1C30?style=flat-square&logo=fastapi&logoColor=05B2A0)](https://fastapi.tiangolo.com/)
+[![Java](https://img.shields.io/badge/Java-0A1C30?style=flat-square&logo=openjdk&logoColor=ED8B00)](https://www.java.com/en/download/help/whatis_java.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0A1C30?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://tc39.es/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0A1C30?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+
+### Distributed Systems • Blockchain
+
+[![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-0A1C30?style=flat-square&logo=hyperledger&logoColor=D9A441)](https://github.com/imos64/hyperledger-fabric-network-kubernetes/tree/main)
+
+---
+
 # 🌟 Featured Engineering Work
 
 ## 🧠 Keycloak–Fabric Bridge — Identity & API Integration
@@ -357,94 +447,6 @@ Security audit work included **CLI transfer** and **cold-signing attack surfaces
 ## 🖥️ Systems Diagnostics
 
 Windows/WSL performance and disk-storage diagnostics.
-
----
-
-# 🛠️ Technology Stack
-
-### Cloud • Infrastructure • Platform
-
-[![AWS](https://img.shields.io/badge/AWS-0A1C30?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/aws)
-[![OCI](https://img.shields.io/badge/Oracle_Cloud-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/oci)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
-[![Docker](https://img.shields.io/badge/Docker-0A1C30?style=flat-square&logo=docker&logoColor=6EA8FE)](https://www.docker.com/company/)
-[![Terraform](https://img.shields.io/badge/Terraform-0A1C30?style=flat-square&logo=terraform&logoColor=A78BFA)](https://github.com/imos64/prometheus-kubernetes/tree/main)
-[![OpenTofu](https://img.shields.io/badge/OpenTofu-0A1C30?style=flat-square&logo=opentofu&logoColor=FFDA18)](https://github.com/imos64/prometheus-kubernetes/tree/main)
-[![Helm](https://img.shields.io/badge/Helm-0A1C30?style=flat-square&logo=helm&logoColor=8AB4F8)](https://github.com/imos64/helm-platform-toolkit/tree/main)
-[![Argo CD](https://img.shields.io/badge/Argo_CD-0A1C30?style=flat-square&logo=argo&logoColor=EF7B4D)](https://github.com/imos64/argocd-kubernetes/tree/main)
-[![Ansible](https://img.shields.io/badge/Ansible-0A1C30?style=flat-square&logo=ansible&logoColor=E96B6B)](https://docs.ansible.com/projects/ansible/latest/getting_started/introduction.html)
-
-[![Secure Hybrid Infrastructure](https://img.shields.io/badge/Secure_Hybrid_Infrastructure-0A1C30?style=flat-square&logo=terraform&logoColor=A78BFA)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main)
-[![Amazon EKS and EC2](https://img.shields.io/badge/Amazon_EKS_%26_EC2-0A1C30?style=flat-square&logo=amazoneks&logoColor=FF9900)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/aws)
-[![Oracle OKE and Compute](https://img.shields.io/badge/Oracle_OKE_%26_Compute-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/oci)
-[![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-0A1C30?style=flat-square&logo=proxmox&logoColor=E57000)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/onprem-proxmox)
-
-### Networking • VPC • VCN • On-premises VLANs
-
-[![AWS Networks](https://img.shields.io/badge/AWS_Networks-0A1C30?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://github.com/imos64/aws-network-infrastructure/tree/main)
-[![Oracle Cloud Networks](https://img.shields.io/badge/Oracle_Cloud_Networks-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://github.com/imos64/oci-network-infrastructure/tree/main)
-[![On-premises Networks](https://img.shields.io/badge/On--premises_Networks-0A1C30?style=flat-square&logo=proxmox&logoColor=E57000)](https://github.com/imos64/onprem-network-infrastructure/tree/main)
-
-### CI/CD • Observability • Security
-
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1C30?style=flat-square&logo=githubactions&logoColor=6EA8FE)](https://github.com/imos64/prometheus-kubernetes/tree/main)
-[![Jenkins](https://img.shields.io/badge/Jenkins-0A1C30?style=flat-square&logo=jenkins&logoColor=E4738A)](https://github.com/imos64/jenkins-platform-kubernetes/tree/main)
-[![Prometheus](https://img.shields.io/badge/Prometheus-0A1C30?style=flat-square&logo=prometheus&logoColor=E6522C)](https://github.com/imos64/prometheus-kubernetes/tree/main)
-[![Grafana](https://img.shields.io/badge/Grafana-0A1C30?style=flat-square&logo=grafana&logoColor=F46800)](https://github.com/imos64/grafana-kubernetes/tree/main)
-[![Trivy](https://img.shields.io/badge/Trivy-0A1C30?style=flat-square&logo=aqua&logoColor=6EA8FE)](https://github.com/imos64/trivy-operator-kubernetes/tree/main)
-
-[![SonarQube](https://img.shields.io/badge/SonarQube-0A1C30?style=flat-square&logo=sonarqube&logoColor=4E9BCD)](https://github.com/imos64/sonarqube-kubernetes/tree/main)
-[![Nexus](https://img.shields.io/badge/Nexus-0A1C30?style=flat-square&logo=sonatype&logoColor=8AB4F8)](https://github.com/imos64/nexus-kubernetes/tree/main)
-[![Selenium Grid](https://img.shields.io/badge/Selenium_Grid-0A1C30?style=flat-square&logo=selenium&logoColor=43B02A)](https://github.com/imos64/selenium-grid-kubernetes/tree/main)
-
-### FinOps • Cost Management • Sustainability
-
-[![Kubecost](https://img.shields.io/badge/Kubecost-0A1C30?style=flat-square&logo=kubernetes&logoColor=43B02A)](https://github.com/imos64/kubecost-kubernetes/tree/main)
-[![OpenCost](https://img.shields.io/badge/OpenCost-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/opencost-kubernetes/tree/main)
-[![kube-green](https://img.shields.io/badge/kube--green-0A1C30?style=flat-square&logo=kubernetes&logoColor=43B02A)](https://github.com/imos64/kube-green-kubernetes/tree/main)
-
-### Security • Runtime Protection • Posture Management • IaC Scanning
-
-[![Trivy Operator](https://img.shields.io/badge/Trivy_Operator-0A1C30?style=flat-square&logo=aqua&logoColor=6EA8FE)](https://github.com/imos64/trivy-operator-kubernetes/tree/main)
-[![Kubescape Operator](https://img.shields.io/badge/Kubescape_Operator-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubescape-operator-kubernetes/tree/main)
-[![Falco](https://img.shields.io/badge/Falco-0A1C30?style=flat-square&logo=falco&logoColor=00AEC7)](https://github.com/imos64/falco-kubernetes/tree/main)
-[![NeuVector](https://img.shields.io/badge/NeuVector-0A1C30?style=flat-square&logo=suse&logoColor=30BA78)](https://github.com/imos64/neuvector-kubernetes/tree/main)
-[![Prisma Cloud Defender](https://img.shields.io/badge/Prisma_Cloud_Defender-0A1C30?style=flat-square&logo=paloaltonetworks&logoColor=F04E23)](https://github.com/imos64/prisma-cloud-defender-kubernetes/tree/main)
-[![Checkov](https://img.shields.io/badge/Checkov-0A1C30?style=flat-square&logo=paloaltonetworks&logoColor=F04E23)](https://github.com/imos64/checkov-kubernetes/tree/main)
-[![SonarQube](https://img.shields.io/badge/SonarQube-0A1C30?style=flat-square&logo=sonarqube&logoColor=4E9BCD)](https://github.com/imos64/sonarqube-kubernetes/tree/main)
-
-[![Kubernetes Cluster Bootstrap](https://img.shields.io/badge/Kubernetes_Cluster_Bootstrap-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubernetes-cluster/tree/main)
-[![Namespace Security Baseline](https://img.shields.io/badge/Namespace_Security_Baseline-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
-
-### DNS • Authoritative Servers • Management • Automation
-
-[![Technitium DNS Server](https://img.shields.io/badge/Technitium_DNS_Server-0A1C30?style=flat-square)](https://github.com/imos64/technitium-dns-kubernetes/tree/main)
-[![PowerDNS](https://img.shields.io/badge/PowerDNS-0A1C30?style=flat-square)](https://github.com/imos64/powerdns-kubernetes/tree/main)
-[![PowerDNS-Admin](https://img.shields.io/badge/PowerDNS--Admin-0A1C30?style=flat-square)](https://github.com/imos64/powerdns-admin-kubernetes/tree/main)
-[![octoDNS](https://img.shields.io/badge/octoDNS-0A1C30?style=flat-square)](https://github.com/imos64/octodns-kubernetes/tree/main)
-[![CoreDNS](https://img.shields.io/badge/CoreDNS-0A1C30?style=flat-square&logo=coredns&logoColor=6EA8FE)](https://github.com/imos64/coredns-kubernetes/tree/main)
-[![ExternalDNS](https://img.shields.io/badge/ExternalDNS-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/external-dns-kubernetes/tree/main)
-[![BIND 9](https://img.shields.io/badge/BIND_9-0A1C30?style=flat-square)](https://github.com/imos64/bind9-kubernetes/tree/main)
-
-### Development • Data • AI
-
-[![Python](https://img.shields.io/badge/Python-0A1C30?style=flat-square&logo=python&logoColor=FFD343)](https://github.com/imos64/checkov-kubernetes/tree/main)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0A1C30?style=flat-square&logo=fastapi&logoColor=05B2A0)](https://fastapi.tiangolo.com/)
-[![Java](https://img.shields.io/badge/Java-0A1C30?style=flat-square&logo=openjdk&logoColor=ED8B00)](https://www.java.com/en/download/help/whatis_java.html)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0A1C30?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://tc39.es/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-0A1C30?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1C30?style=flat-square&logo=postgresql&logoColor=8AB4F8)](https://github.com/imos64/postgresql-kubernetes/tree/main)
-[![MySQL](https://img.shields.io/badge/MySQL-0A1C30?style=flat-square&logo=mysql&logoColor=8AB4F8)](https://github.com/imos64/mysql-kubernetes/tree/main)
-[![Redis](https://img.shields.io/badge/Redis-0A1C30?style=flat-square&logo=redis&logoColor=DC382D)](https://github.com/imos64/redis-kubernetes/tree/main)
-[![OpenSearch](https://img.shields.io/badge/OpenSearch-0A1C30?style=flat-square&logo=opensearch&logoColor=6EA8FE)](https://opensearch.org/about/)
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-0A1C30?style=flat-square&logo=mongodb&logoColor=47A248)](https://github.com/imos64/mongodb-kubernetes/tree/main)
-[![Cassandra](https://img.shields.io/badge/Cassandra-0A1C30?style=flat-square&logo=apachecassandra&logoColor=8AB4F8)](https://github.com/imos64/cassandra-kubernetes/tree/main)
-
-### Distributed Systems • Blockchain
-
-[![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-0A1C30?style=flat-square&logo=hyperledger&logoColor=D9A441)](https://github.com/imos64/hyperledger-fabric-network-kubernetes/tree/main)
-[![CouchDB](https://img.shields.io/badge/CouchDB-0A1C30?style=flat-square&logo=apachecouchdb&logoColor=E42528)](https://github.com/imos64/couchdb-kubernetes/tree/main)
 
 ---
 
