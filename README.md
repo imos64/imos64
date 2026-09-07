@@ -364,8 +364,8 @@ Windows/WSL performance and disk-storage diagnostics.
 
 ### Cloud • Infrastructure • Platform
 
-[![AWS](https://img.shields.io/badge/AWS-0A1C30?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://github.com/imos64/setup-guide/tree/main)
-[![OCI](https://img.shields.io/badge/Oracle_Cloud-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://www.oracle.com/cloud/)
+[![AWS](https://img.shields.io/badge/AWS-0A1C30?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/aws)
+[![OCI](https://img.shields.io/badge/Oracle_Cloud-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/oci)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
 [![Docker](https://img.shields.io/badge/Docker-0A1C30?style=flat-square&logo=docker&logoColor=6EA8FE)](https://www.docker.com/company/)
 [![Terraform](https://img.shields.io/badge/Terraform-0A1C30?style=flat-square&logo=terraform&logoColor=A78BFA)](https://github.com/imos64/prometheus-kubernetes/tree/main)
@@ -373,6 +373,11 @@ Windows/WSL performance and disk-storage diagnostics.
 [![Helm](https://img.shields.io/badge/Helm-0A1C30?style=flat-square&logo=helm&logoColor=8AB4F8)](https://github.com/imos64/helm-platform-toolkit/tree/main)
 [![Argo CD](https://img.shields.io/badge/Argo_CD-0A1C30?style=flat-square&logo=argo&logoColor=EF7B4D)](https://github.com/imos64/argocd-kubernetes/tree/main)
 [![Ansible](https://img.shields.io/badge/Ansible-0A1C30?style=flat-square&logo=ansible&logoColor=E96B6B)](https://docs.ansible.com/projects/ansible/latest/getting_started/introduction.html)
+
+[![Secure Hybrid Infrastructure](https://img.shields.io/badge/Secure_Hybrid_Infrastructure-0A1C30?style=flat-square&logo=terraform&logoColor=A78BFA)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main)
+[![Amazon EKS and EC2](https://img.shields.io/badge/Amazon_EKS_%26_EC2-0A1C30?style=flat-square&logo=amazoneks&logoColor=FF9900)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/aws)
+[![Oracle OKE and Compute](https://img.shields.io/badge/Oracle_OKE_%26_Compute-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/oci)
+[![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-0A1C30?style=flat-square&logo=proxmox&logoColor=E57000)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/onprem-proxmox)
 
 ### CI/CD • Observability • Security
 
