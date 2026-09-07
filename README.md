@@ -392,7 +392,7 @@ Windows/WSL performance and disk-storage diagnostics.
 [![OpenCost](https://img.shields.io/badge/OpenCost-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/opencost-kubernetes/tree/main)
 [![kube-green](https://img.shields.io/badge/kube--green-0A1C30?style=flat-square&logo=kubernetes&logoColor=43B02A)](https://github.com/imos64/kube-green-kubernetes/tree/main)
 
-### Security • Runtime Protection • Posture Management
+### Security • Runtime Protection • Posture Management • IaC Scanning
 
 [![Trivy Operator](https://img.shields.io/badge/Trivy_Operator-0A1C30?style=flat-square&logo=aqua&logoColor=6EA8FE)](https://github.com/imos64/trivy-operator-kubernetes/tree/main)
 [![Kubescape Operator](https://img.shields.io/badge/Kubescape_Operator-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubescape-operator-kubernetes/tree/main)
@@ -401,6 +401,19 @@ Windows/WSL performance and disk-storage diagnostics.
 [![Prisma Cloud Defender](https://img.shields.io/badge/Prisma_Cloud_Defender-0A1C30?style=flat-square&logo=paloaltonetworks&logoColor=F04E23)](https://github.com/imos64/prisma-cloud-defender-kubernetes/tree/main)
 [![Checkov](https://img.shields.io/badge/Checkov-0A1C30?style=flat-square&logo=paloaltonetworks&logoColor=F04E23)](https://github.com/imos64/checkov-kubernetes/tree/main)
 [![SonarQube](https://img.shields.io/badge/SonarQube-0A1C30?style=flat-square&logo=sonarqube&logoColor=4E9BCD)](https://github.com/imos64/sonarqube-kubernetes/tree/main)
+
+[![Kubernetes Cluster Bootstrap](https://img.shields.io/badge/Kubernetes_Cluster_Bootstrap-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubernetes-cluster/tree/main)
+[![Namespace Security Baseline](https://img.shields.io/badge/Namespace_Security_Baseline-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/kubernetes-platform-baseline/tree/main)
+
+### DNS • Authoritative Servers • Management • Automation
+
+[![Technitium DNS Server](https://img.shields.io/badge/Technitium_DNS_Server-0A1C30?style=flat-square)](https://github.com/imos64/technitium-dns-kubernetes/tree/main)
+[![PowerDNS](https://img.shields.io/badge/PowerDNS-0A1C30?style=flat-square)](https://github.com/imos64/powerdns-kubernetes/tree/main)
+[![PowerDNS-Admin](https://img.shields.io/badge/PowerDNS--Admin-0A1C30?style=flat-square)](https://github.com/imos64/powerdns-admin-kubernetes/tree/main)
+[![octoDNS](https://img.shields.io/badge/octoDNS-0A1C30?style=flat-square)](https://github.com/imos64/octodns-kubernetes/tree/main)
+[![CoreDNS](https://img.shields.io/badge/CoreDNS-0A1C30?style=flat-square&logo=coredns&logoColor=6EA8FE)](https://github.com/imos64/coredns-kubernetes/tree/main)
+[![ExternalDNS](https://img.shields.io/badge/ExternalDNS-0A1C30?style=flat-square&logo=kubernetes&logoColor=6EA8FE)](https://github.com/imos64/external-dns-kubernetes/tree/main)
+[![BIND 9](https://img.shields.io/badge/BIND_9-0A1C30?style=flat-square)](https://github.com/imos64/bind9-kubernetes/tree/main)
 
 ### Development • Data • AI
 
