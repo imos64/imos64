@@ -379,6 +379,12 @@ Windows/WSL performance and disk-storage diagnostics.
 [![Oracle OKE and Compute](https://img.shields.io/badge/Oracle_OKE_%26_Compute-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/oci)
 [![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-0A1C30?style=flat-square&logo=proxmox&logoColor=E57000)](https://github.com/imos64/secure-hybrid-infrastructure/tree/main/environments/onprem-proxmox)
 
+### Networking • VPC • VCN • On-premises VLANs
+
+[![AWS Networks](https://img.shields.io/badge/AWS_Networks-0A1C30?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://github.com/imos64/aws-network-infrastructure/tree/main)
+[![Oracle Cloud Networks](https://img.shields.io/badge/Oracle_Cloud_Networks-0A1C30?style=flat-square&logo=oracle&logoColor=F80000)](https://github.com/imos64/oci-network-infrastructure/tree/main)
+[![On-premises Networks](https://img.shields.io/badge/On--premises_Networks-0A1C30?style=flat-square&logo=proxmox&logoColor=E57000)](https://github.com/imos64/onprem-network-infrastructure/tree/main)
+
 ### CI/CD • Observability • Security
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1C30?style=flat-square&logo=githubactions&logoColor=6EA8FE)](https://github.com/imos64/prometheus-kubernetes/tree/main)
