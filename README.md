@@ -197,7 +197,7 @@ Research-oriented task areas include:
 
 ## 🧠 Senior SWE-Bench
 
-[![SWE Bench](https://img.shields.io/badge/Senior_SWE--Bench-Coding_Agent_Evaluation-0F2A44?style=flat-square&labelColor=061423)](https://github.com/imos64)
+[![SWE Bench](https://img.shields.io/badge/Senior_SWE--Bench-Coding_Agent_Evaluation-0F2A44?style=flat-square&labelColor=061423)](https://senior-swe-bench.snorkel.ai/tasks)
 
 Repository-scale review work includes:
 
