@@ -265,6 +265,19 @@ Prometheus, Grafana, Loki and Alertmanager were validated in an isolated cluster
 
 ---
 
+# SRE Postmortems
+
+[![SRE Postmortems](https://img.shields.io/badge/SRE_Postmortems-Incident_Reports-0F2A44?style=flat-square&labelColor=061423&logo=github&logoColor=D9A441)](https://github.com/imos64/sre-postmortem)
+
+Evidence-backed incident reports covering impact, root cause, recovery,
+verification, and follow-up reliability work.
+
+| Incident date | Postmortem | Incident summary | Dated tag |
+| --- | --- | --- | --- |
+| 2026-09-08 | [Hyperledger Fabric Development Outage — SRE Postmortem](https://github.com/imos64/sre-postmortem/blob/main/incidents/2026-09-08-fabric-couchdb-oom/2026-09-08-hyperledger-fabric-outage-postmortem.md) | Recovered eight CouchDBs, eight Fabric peers, and Explorer after Erlang startup OOM and identity/TLS trust failures. | [incident-2026-09-08](https://github.com/imos64/sre-postmortem/tree/incident-2026-09-08) |
+
+---
+
 # 🤖 Frontier AI Benchmark Engineering
 
 [![221 Projects](https://img.shields.io/badge/Recovered_Benchmark_Task%2FProject_Directories-221-D9A441?style=flat-square&labelColor=061423)](https://github.com/imos64)
