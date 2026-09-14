@@ -82,6 +82,18 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 [![Caddy](https://img.shields.io/badge/Caddy-0A1C30?style=flat-square)](https://github.com/imos64/caddy-load-balancer/tree/main)
 [![Katran](https://img.shields.io/badge/Katran-0A1C30?style=flat-square)](https://github.com/imos64/katran-load-balancer/tree/main)
 
+### Horizontal & Vertical Scaling
+
+[![Kubernetes HPA](https://img.shields.io/badge/Kubernetes_HPA-0A1C30?style=flat-square)](https://github.com/imos64/kubernetes-hpa/tree/main)
+[![Kubernetes VPA](https://img.shields.io/badge/Kubernetes_VPA-0A1C30?style=flat-square)](https://github.com/imos64/kubernetes-vpa/tree/main)
+[![KEDA](https://img.shields.io/badge/KEDA-0A1C30?style=flat-square)](https://github.com/imos64/keda-kubernetes/tree/main)
+[![Goldilocks](https://img.shields.io/badge/Goldilocks-0A1C30?style=flat-square)](https://github.com/imos64/goldilocks-kubernetes/tree/main)
+[![Metrics Server](https://img.shields.io/badge/Metrics_Server-0A1C30?style=flat-square)](https://github.com/imos64/metrics-server-kubernetes/tree/main)
+[![Prometheus Adapter](https://img.shields.io/badge/Prometheus_Adapter-0A1C30?style=flat-square)](https://github.com/imos64/prometheus-adapter-kubernetes/tree/main)
+[![Knative Serving](https://img.shields.io/badge/Knative_Serving-0A1C30?style=flat-square)](https://github.com/imos64/knative-serving-kubernetes/tree/main)
+[![Karpenter](https://img.shields.io/badge/Karpenter-0A1C30?style=flat-square)](https://github.com/imos64/karpenter-kubernetes/tree/main)
+[![Cluster Autoscaler](https://img.shields.io/badge/Cluster_Autoscaler-0A1C30?style=flat-square)](https://github.com/imos64/cluster-autoscaler-kubernetes/tree/main)
+
 ### CI/CD • Observability • Security
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1C30?style=flat-square&logo=githubactions&logoColor=6EA8FE)](https://github.com/imos64/prometheus-kubernetes/tree/main)
