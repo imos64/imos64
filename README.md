@@ -177,6 +177,7 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 
 ### Development • AI
 
+[![Imos Native Terminal — private](https://img.shields.io/badge/Imos_Native_Terminal-private-0A1C30?style=flat-square&logo=gnometerminal&logoColor=FFD343)](https://github.com/imos64/imos-site "Private repository; access required")
 [![Python](https://img.shields.io/badge/Python-0A1C30?style=flat-square&logo=python&logoColor=FFD343)](https://docs.python.org/3/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0A1C30?style=flat-square&logo=fastapi&logoColor=05B2A0)](https://fastapi.tiangolo.com/)
 [![Java](https://img.shields.io/badge/Java-0A1C30?style=flat-square&logo=openjdk&logoColor=ED8B00)](https://www.java.com/en/download/help/whatis_java.html)
