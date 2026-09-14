@@ -107,6 +107,19 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 [![Flagger](https://img.shields.io/badge/Flagger-0A1C30?style=flat-square)](https://github.com/imos64/flagger-gitops/tree/main)
 [![Crossplane](https://img.shields.io/badge/Crossplane-0A1C30?style=flat-square)](https://github.com/imos64/crossplane-gitops/tree/main)
 
+### K8s Certificate Management / PKI Automation
+
+[![cert-manager](https://img.shields.io/badge/cert--manager-0A1C30?style=flat-square)](https://github.com/imos64/cert-manager-kubernetes/tree/main)
+[![Smallstep step-ca](https://img.shields.io/badge/Smallstep_step--ca-0A1C30?style=flat-square)](https://github.com/imos64/step-ca-kubernetes/tree/main)
+[![OpenBao PKI](https://img.shields.io/badge/OpenBao_PKI-0A1C30?style=flat-square)](https://github.com/imos64/openbao-pki-kubernetes/tree/main)
+[![SPIRE](https://img.shields.io/badge/SPIRE-0A1C30?style=flat-square)](https://github.com/imos64/spire-kubernetes/tree/main)
+[![trust-manager](https://img.shields.io/badge/trust--manager-0A1C30?style=flat-square)](https://github.com/imos64/trust-manager-kubernetes/tree/main)
+[![Istio CA / Istiod](https://img.shields.io/badge/Istio_CA_%2F_Istiod-0A1C30?style=flat-square)](https://github.com/imos64/istiod-pki-kubernetes/tree/main)
+[![Linkerd Identity](https://img.shields.io/badge/Linkerd_Identity-0A1C30?style=flat-square)](https://github.com/imos64/linkerd-identity-kubernetes/tree/main)
+[![EJBCA Community](https://img.shields.io/badge/EJBCA_Community-0A1C30?style=flat-square)](https://github.com/imos64/ejbca-community-kubernetes/tree/main)
+[![CFSSL](https://img.shields.io/badge/CFSSL-0A1C30?style=flat-square)](https://github.com/imos64/cfssl-pki-kubernetes/tree/main)
+[![Kubernetes Certificate APIs](https://img.shields.io/badge/Kubernetes_Certificate_APIs-0A1C30?style=flat-square)](https://github.com/imos64/kubernetes-certificate-apis/tree/main)
+
 ### CI/CD • Observability • Security
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1C30?style=flat-square&logo=githubactions&logoColor=6EA8FE)](https://github.com/imos64/prometheus-kubernetes/tree/main)
