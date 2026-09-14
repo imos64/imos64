@@ -2,7 +2,7 @@
 
 ### Building secure infrastructure • Reliable platforms • Distributed systems • Frontier AI evaluation environments
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imos_Aikoroje-0F2A44?style=flat-square&labelColor=061423&logo=linkedin&logoColor=D9A441)](https://www.linkedin.com/in/imosaikoroje/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imonikhe_Aikoroje-0F2A44?style=flat-square&labelColor=061423&logo=linkedin&logoColor=D9A441)](https://www.linkedin.com/in/imosaikoroje/)
 [![GitHub](https://img.shields.io/badge/GitHub-imos64-0F2A44?style=flat-square&labelColor=061423&logo=github&logoColor=D9A441)](https://github.com/imos64)
 [![Profile Views](https://komarev.com/ghpvc/?username=imos64&style=flat-square&label=PROFILE+VIEWS&color=0F2A44&labelColor=061423)](https://github.com/imos64)
 
