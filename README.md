@@ -178,6 +178,7 @@ Security + Reliability + Automation + Distributed Systems + AI Evaluation
 
 ### Development • AI
 
+[![Imos Writing Review — private](https://img.shields.io/badge/Imos_Writing_Review-private-0A1C30?style=flat-square&logo=python&logoColor=FFD343)](https://github.com/imos64/imos-writing-review "Private repository; owner-only writing review and CPU model research")
 [![Imos Native Terminal — private](https://img.shields.io/badge/Imos_Native_Terminal-private-0A1C30?style=flat-square&logo=gnometerminal&logoColor=FFD343)](https://github.com/imos64/imos-site-terminal "Private repository; access required")
 [![Imos GitOps Services — private](https://img.shields.io/badge/Imos_GitOps_Services-private-0A1C30?style=flat-square&logo=argo&logoColor=EF7B4D)](https://github.com/imos64/imos-site/tree/main/docs/local-microservices "Private repository; access required")
 [![Local Identity — private](https://img.shields.io/badge/Local_Identity-private-0A1C30?style=flat-square&logo=keycloak&logoColor=FFD343)](https://github.com/imos64/imos-site-auth "Private repository; access required")
