@@ -279,6 +279,8 @@ verification, and follow-up reliability work.
 
 | Incident date | Postmortem | Incident summary | Dated tag |
 | --- | --- | --- | --- |
+| 2026-09-19 | [Windows/WSL Platform Recovery and Terminal-Bench Runner Offline](https://github.com/imos64/sre-postmortem/blob/main/incidents/2026-09-19-windows-wsl-runner-recovery/2026-09-19-windows-wsl-runner-recovery-postmortem.md) | Restored the paired runner and automatic platform recovery; an actual reboot verified accepted heartbeats before Windows sign-in. | [incident-2026-09-19](https://github.com/imos64/sre-postmortem/tree/incident-2026-09-19) |
+| 2026-09-16 | [Fixam4me Booking Service Restart Incident](https://github.com/imos64/sre-postmortem/blob/main/incidents/2026-09-16-booking-service-restarts/2026-09-16-booking-service-restarts-postmortem.md) | Repeated restarts followed an unhandled database query rejection; the dependency connectivity cause and durable fix remained open. | — |
 | 2026-09-08 | [Hyperledger Fabric Development Outage — SRE Postmortem](https://github.com/imos64/sre-postmortem/blob/main/incidents/2026-09-08-fabric-couchdb-oom/2026-09-08-hyperledger-fabric-outage-postmortem.md) | Recovered eight CouchDBs, eight Fabric peers, and Explorer after Erlang startup OOM and identity/TLS trust failures. | [incident-2026-09-08](https://github.com/imos64/sre-postmortem/tree/incident-2026-09-08) |
 
 ---
